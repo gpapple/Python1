@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>定时器</title>
+    <style>
+        #item1{
+            width: 50px;
+            height: 50px;
+            background-color: palevioletred;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="item1">哈哈！</div>
+    <script>
+        var ondiv = document.getElementById('item1');
+        // console.log(ondiv);
+        var i = 50;
+        var set =setInterval(function () {
+            i++;
+            ondiv.style.width=i+'px';
+            // console.log(i)
+            if(i==500){
+                clearInterval(set)
+            }
+        },10);
+
+        console.log(set)
+    </script>
+
+</body>
+</html>
