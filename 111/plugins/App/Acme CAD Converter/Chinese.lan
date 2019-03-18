@@ -1,0 +1,1086 @@
+简体中文
+
+//The char "%" is regard as return. You can write "%%" to input "%" symbol.
+//AcmeCADConverter language package
+
+Translator=大眼仔~旭(Anan) [简体中文]
+AboutTranslatorLabel=Translator:
+
+OkCaption=确定
+CancelCaption=取消
+
+BuyNowCaption=立即购买(&B)...
+
+SaveError=保存错误!
+SaveSuccess=保存成功!
+
+OpenFileFail=打开文件失败！你想恢复它吗?
+ImportFileFail=导入文件失败!
+
+clBlack=黑色
+clRed=红色
+clYellow=黄色
+clGreen=绿色
+clAqua=水色
+clBlue=蓝色
+clFuchsia=紫红色
+clWhite=白色
+clDarkGray=深灰色
+clColor=颜色
+
+JpegHigh=高
+JpegLow=氏
+JpegQuality=Jpeg 质量
+SaveBmpWidth=宽度
+SaveBmpHeight=高度
+SaveBmpIncludeMask=包括蒙板位图(&M)
+SaveBmpWinSize=窗口大小
+SaveBmpLockSize=约束比例(&C)
+
+NoMemory=没有足够的内存!
+NoDefaultPrinter=当前选定的没有默认打印机!%所以，你可以不打印!
+RegenDrawing=重新生成绘图中...
+TransferPrinter=传送至打印机...
+TransferRaster=传送至光栅文件...
+
+ChildOpeningFile=打开文件
+RedrawingMsg=重新绘制中...
+
+MainMenuFile=文件(&F)
+ChildMenuView=视图(&V)
+ChildMenuFormat=格式(&M)
+
+ChildMenuSave=另存为(&A)...
+ChildMenuSaveHint=保存文件
+
+ChildMenuClose=关闭(&C)
+ChildMenuCloseHint=关闭此窗口
+
+ChildMenuSaveBmp=另存为位图(&B)...
+ChildMenuSaveBmpHint=保存为位图文件格式
+
+ChildMenuSaveLayoutBmp=保存位图布局(&S)...
+ChildMenuSaveLayoutBmpHint=保存当前布局为位图
+
+ChildMenuPrint=打印(&P)...
+ChildMenuPrintHint=打印绘制到绘图仪，打印机或文件
+
+ChildMenuLayer=图层(&L)...
+ChildMenuLayerHint=设置图层属性
+
+ChildMenuLinetype=线型(&Y)...
+ChildMenuLinetypeHint=创建，加载和设置线型
+
+ChildMenuPtStyle=点样式(&P)...
+ChildMenuPtStyleHint=设置点的显示尺寸和样式
+
+ChildMenuViewPoint=选择观察点(&C)...
+ChildMenuViewPointHint=设置三维观看方向
+
+ChildMenuViewFront=正面(&F)
+ChildMenuViewFrontHint=设置指向正面观察
+
+ChildMenuViewBack=背面(&B)
+ChildMenuViewBackHint=设置指向背面观察
+
+ChildMenuLeft=左侧(&L)
+ChildMenuLeftHint=设置指向左侧观察
+
+ChildMenuRight=右侧(&R)
+ChildMenuRightHint=设置指向右侧观察
+
+ChildMenuTop=顶部(&T)
+ChildMenuTopHint=设置指向顶部观察
+
+ChildMenuBottom=底部(&B)
+ChildMenuBottomHint=设置指向底部观察
+
+ChildMenuSWIso=SW 等距(&S)
+ChildMenuSWIsoHint=设置西南观察点等距
+
+ChildMenuSEIso=SE 等距(&E)
+ChildMenuSEIsoHint=设置东南观察点等距
+
+ChildMenuNEIso=NE 等距(&N)
+ChildMenuNEIsoHint=设置东北观察点等距
+
+ChildMenuNWIso=N&W 等距(&W)
+ChildMenuNWIsoHint=设置西北观察点等距
+
+ChildMenuZoomExt=缩放范围(&E)
+ChildMenuZoomExtHint=缩放范围
+
+ChildMenuZoomIn=放大(&I)
+ChildMenuZoomInHint=放大
+
+ChildMenuZoomOut=缩小(&O)
+ChildMenuZoomOutHint=缩小
+
+ChildMenuZoomWin=缩放窗口(&W)
+ChildMenuZoomWinHint=缩放窗口
+
+ChildMenuRegen=恢复(&R)
+ChildMenuRegenHint=恢复视图
+
+ChildMenuZoomPre=缩放上一个(&V)
+ChildMenuZoomPreHint=缩放上一个视图
+
+ChildMenuPan=平移(&P)
+ChildMenuPanHint=实时平移
+
+ChildMenuPanLeft=向左平移(&L)
+ChildMenuPanLeftHint=向左平移
+
+ChildMenuPanRight=向右平移(&R)
+ChildMenuPanRightHint=向右平移
+
+ChildMenuPanUp=向上平移(&U)
+ChildMenuPanUpHint=向上平移
+
+ChildMenuPanDown=向下平移(&D)
+ChildMenuPanDownHint=向下平移
+
+ChildMenu256Colors=真彩色(&C)
+ChildMenu256ColorsHint=显示真彩色
+
+ChildMenuGrayColors=灰色(&G)
+ChildMenuGrayColorsHint=显示灰色
+
+ChildMenuBWColor=黑/白色(&B)
+ChildMenuBWColorHint=显示黑/白色
+
+ChildMenu3DView=3D 动态视图(&Y)
+ChildMenu3DViewHint=定义一个平行投影或透视图
+
+ChildMenuExit3DView=退出(&X)
+
+ChildMenuUcsIcon=Ucs 图标(&U)
+
+ChildMenuUIOn=开(&O)
+ChildMenuUIOnHint=打开 UCS 图标
+
+ChildMenuUIOR=来源(&R)
+ChildMenuUIORHint=如果可能附近的 UCS 原点保持 UCS 图标
+
+ChildMenuColors=颜色(&C)
+ChildMenu3DViews=3D 视图(&V)
+
+InitError=无法初始化。
+
+OpenDWGDlgPreviewAll=预览所有图形文件
+
+MainRegSuccess=祝贺您!%注册成功!
+MainRegFail=注册失败!\n请稍后再注册!\n\n------------------------------------------------------------------------\n注意: 新 CADConverter（版本6.0）已经改变了注册代码。 如果您已购买旧版本的 CADConverter，请把您的 E-mail 订单信息发送给我们，我们确认您的订单信息后，我们将重新发送新的注册码给你。 \n\n下面的信息是有效的: \n\n旧ID(通过购买 Qwerks), Ref.No.(通过购买 ShareIt), \nEmail: \n地址:\n电话号码:\n您的姓名或公司名称:\n旧注册码。
+MainNotReg=请稍后再注册!
+
+CreateAssociationSuccessfully=成功创建文件关联!
+RestoreAssociationSuccessfully=成功恢复旧的文件关联!
+
+CannotImport=无法导入其他格式的文件，因为没有插件!
+
+MainMenuFile=文件(&F)
+MainMenuOption=选项(&O)
+MainMenuWindow=窗口(&W)
+MainMenuHelp=帮助(&H)
+
+MainMenuExit=退出(&X)
+MainMenuExitHint=退出 CADConverter
+
+MainMenuAbout=关于(&A)...
+MainMenuAboutHint=关于 CADConverter
+
+MainMenuReg=注册(&R)...
+MainMenuRegHint=输入注册码，注册本软件副本
+
+MainMenuBuy=立即购买(&B)...
+MainMenuBuyHint=现在购买该软件副本
+
+MainMenuOpen=打开(&O)...
+MainMenuOpenHint=打开现有的图形文件
+
+MainMenuBatch=批量转换(&B)...
+MainMenuBatchHint=批量转换文件格式
+
+MainMenuImport=导入(&I)...
+MainMenuImportHint=导入其他格式文件
+
+MainMenuSetBkColor=设置背景颜色(&B)...
+MainMenuSetBkColorHint=设置背景颜色
+
+MainMenuSetShxDir=搜索目录和字体替换(&D)...
+MainMenuSetShxDirHint=设置搜索 shx 字体文件，外部参照图块档案和光栅文件目录
+
+MainMenuCreateAssociated=创建关联(&C)
+MainMenuCreateAssociatedHint=创建相关的 dwg 和 dxf 文件
+
+MainMenuRestoreAssociated=恢复关联(&R)
+MainMenuRestoreAssociatedHint=恢复相关的 dwg 和 dxf 文件
+
+MainMenuLanguage=语言(&L)...
+MainMenuLanguageHint=选择语言
+
+MainMenuVerTile=垂直平铺(&V)
+MainMenuVerTileHint=平铺窗口垂直
+
+MainMenuHorTile=水平平铺(&H)
+
+MainMenuCascade=级联(&C)
+
+BatchCaption=批量转换
+BatchUnregMsg=未注册版!%您不可以执行此功能!
+BatchTargetFormat=&Target file format
+
+BatchWidth=宽度(&W)
+BatchHeight=高度(&H)
+JpegQuality=Jpeg 质量
+JpegLow=低
+JpegHigh=高
+BatchColor=颜色(&R)
+BatchZoomExt=自动缩放程度(&Z)
+BatchMask=包括蒙板位图(&S)
+BatchAddFiles=添加文件(&A)
+BatchDelFiles=删除文件(&V)
+BatchClearFiles=清除所有文件(&L)
+BatchStart=开始(&S)
+BatchClose=关闭(&C)
+
+TransformDlgCaption=转换中...
+TransformStop=停止(&S)
+TransformOpenFile=打开文件
+TransformUserBreak=用户中断!
+TransformOverwriteFile=覆盖存在的文件 :
+TransformComfirm=确认
+TransformSaveFile=保存文件
+TransformFile=转换文件
+TransformCompleted=转换完成!
+TransformClose=关闭(&C)
+TransformNoDetailInfo=无详细信息(&D) <<
+TransformDetailInfo=无详细信息(&D) >>
+TransformTotalProgress=总进度
+
+AboutCaption=关于
+AboutWebsite=网站 : 
+AboutSupportEMail=支持 e_mail : 
+AboutDownloadnewversion=下载最新版本 !!!
+
+InputRegDlgCaption=注册
+InputRegRegister=注册(&R)
+InputRegCode=注册码(&C):
+
+SelColorDlgCaption=选择颜色
+SelColorStandardColors=标准颜色
+SelColorAllColors=全彩色调色板
+SelColorGrayColors=灰色
+SelColorSelColor=选择颜色
+
+ShxDirDlgCaption=设置搜索目录
+ShxDirAdd=添加(&A)...
+ShxDirDelete=删除(&D)
+ShxDirDelInvalid=清除(&P)
+
+LayerDlgCaption=层和线型属性
+
+LayerLayerSheet=层
+LayerLtypeSheet=线型
+
+LayerListViewName=名称
+LayerListViewOn=开
+LayerListViewColor=颜色
+LayerListViewLtype=线型
+
+LayerDetail=详细信息
+LayerName=名称(&N)
+LayerLtype=线型(&L)
+LayerColor=颜色(&C)
+LayerOn=开(&O)
+
+LayerLtypeListViewLtype=线型
+LayerLtypeListViewDescription=描述
+LayerLoadLtype=载入(&L)...
+LayerLtScale=全局线型尺度(&G)
+LayerPsLtScale=使用图纸空间单位尺度(&U)
+
+LtypeLoadDlgCaption=载入或重新载入线型
+
+LtypeLoadFile=文件(&F)...
+LtypeLoadAvailableLtype=可用线型
+
+LtypeLoadListViewLtype=线型
+LtypeLoadListViewDesciption=描述
+
+ReloadLtypeCaption=刷新线型
+ReloadLtypeYes=是(&Y)
+ReloadLtypeYestoAll=是到全部(&E)
+ReloadLtypeNo=否(&N)
+ReloadLtypeNotoAll=不到全部(&O)
+
+ViewAngleDlgCaption=视点预置
+
+ViewAngleSetAngle=设置视角
+ViewAngleSetPlan=设置为平面视图(&V)
+
+ViewAngleXAxis=从 X 轴
+ViewAngleXYAngle=XY 平面
+
+PtTypeDlgCaption=点样式
+PtTypeUnits=单位
+
+PtTypeSize=点大小(&S)
+PtTypeRelative=设置尺寸相对于屏幕(&R)
+PtTypeAbsolute=设置大小在绝对单位(&A)
+
+PrintDlgCaption=打印配置对话框
+
+PrintUnitmm=打印 mm
+PrintUnitInch=打印英寸
+PrintPaperSize=纸张尺寸
+PrintPaperSizeBy=按
+
+PrintDevice=设备设置(&D) ...
+PrintPenWidth=钢笔宽度设置(&H) ...
+
+PrintGroupArea=打印区域
+PrintDisplay=显示(&P)
+PrintWindow=窗口(&W)
+PrintLayout=当前布局(&C)
+PrintWinPick=窗口拾取(&N)<
+
+PrintGroupRaster=光栅导出
+PrintRasterExport=导出光栅文件(&F)
+PrintRasterFile=文件名(&A) ...
+
+PrintColor=打印颜色(&O)
+PrintBlackColor=所有黑色
+PrintGrayColor=灰色
+Print256Colors=真彩色
+
+PrintGroupPapaSize=纸张尺寸
+PrintInch=英寸(&L)
+Printmm=&mm
+
+PrintGroupScale=缩放，旋转和源
+PrintRotate=旋转角度(&D)
+PrintOffsetX=偏移 &X
+PrintOffsetY=&Y
+PrintCenter=居中打印(&E)
+PrintDrawingUnit=绘图单位
+PrintScaleFit=缩放至适合(&T)
+
+PrintPreview=预览(&V) ...
+PrintPrint=打印
+
+PreviewDlgCaption=打印预览 - 按 ESC 键或回车键退出，点击鼠标右键，弹出菜单按钮
+PreviewPan=平移(&P)
+PreviewZoom=缩放(&Z)
+PreviewZoomFit=缩放适合(&F)
+PreviewExit=退出(&X)
+
+InvalidNumberMsg=无效的号码!
+
+PenWidthListViewColor=颜色索引
+PenWidthListViewWidth=宽度
+
+PenWidthColor=颜色
+PenWidthWidth=宽度(&C)
+
+PenWidthUnit=单位
+PenWidthInch=英寸(&I)
+PenWidthmm=&mm
+
+SetLanDlgCaption=设置语言
+SetLanLanList=语言列表
+SetLanCurLan=当前语言
+
+**** Added 2002.08.17
+FileNotFount=文件未找到 :
+
+LayoutModal=Modal
+LayoutPaper=纸张
+
+ChildSaveDlgTitle=保存图形文件
+ChildSavingFile=保存文件
+ChildNoDrawing=无图形文件
+
+SaveBmpTitle=保存为光栅文件
+SaveBmpFileSize=位图文件大小:
+
+SaveLayoutBmpTitle=保存布局为光栅文件
+
+BatchOpenDwgDlgTitle=打开 AutoCAD 文件
+
+UnregText=未注册版
+
+UnregPrompt=未注册版!%您的位图将有 "DemoCADConverter" 文本!%只有当您已注册限制将会被取消。
+UnregPrintPrompt=未注册版!%Acme CADConverter 将打印 "DemoCADConverter" 文本!%只有当您已注册限制将会被取消。
+
+BatchBWColor=黑/白色
+BatchGrayColor=灰色
+Batch256Color=真彩色
+
+**** Added 2002.08.23
+NonePreviewPicture=(无)
+
+AllDrawingType=所有绘图类型(*.dwg,*.dxf)
+DrawingType=绘图类型(*.dwg)
+DxfType=DXF 类型(*.dxf)
+
+BmpType=位图类型(*.bmp)
+JpegType=JPEG 类型(*.jpg)
+
+PrintMsgDlgCaption=打印信息
+PrintExportToRasterTitle=光栅文件名
+
+MainMenuIndex=索引(&I)
+MainMenuIndexHint=显示帮助
+
+MainMenuHorTileHint=水平平铺窗口
+
+MainMenuCascadeHint=在级联窗口
+
+**** Added 2002.08.26
+SelectShxDirDlgCap=选择搜索目录
+
+**** Added 2002.09.02
+ChildMenuExport=导出(&E)...
+ChildMenuExportHint=导出到其他矢量格式文件
+NotSupportVecFormat=不支持矢量格式!
+
+ExportDlgTitle=导出...
+ExportDlgWidth=宽度
+ExportDlgHeight=高度
+ExportDlgColors=颜色
+ExportDlgLockSize=约束比例
+ExportDlgZoomExt=缩放程度
+ExportDlgBlack=全部黑色
+ExportDlgGray=灰色
+ExportDlg256Colors=真彩色
+
+SVGType=可伸缩矢量图形(*.svg)
+HPGLType=HP-GL/2(*.plt)
+
+UnregExportPrompt=未注册版!%你的矢量文件将有 "DemoCADConverter" 文本!%只有当您已注册这个限制将会被取消。
+SaveBmpZoomExt=缩放程度
+
+BatchSameFile=相同文件选项
+BatchOverwrite=覆盖不提示
+BatchPrompt=提示
+BatchGenerate=自动生成文件名
+BatchTargetDir=目标文件夹(&F)
+BatchAddFolder=所有的图形文件文件夹(&F)
+BatchTargetDirDlgCap=选择目标目录
+BatchOption=选项
+
+AddFloderDlgCap=选择要添加的文件夹
+AddFolderDlgIncludeSub=包括子文件夹
+AddFolderDlgFileTypeGrp=添加文件类型
+AddFolderDlgAddDWG=DWG 文件
+AddFolderDlgAddDXF=DXF 文件
+
+TransformSuccess=成功!
+TransformFail=失败!
+
+ParamError=参数错误!
+
+**** Added 2002.09.09
+OpenShxDlgTitle=选择 AutoCAD shx 文件
+CADShxFileType=AutoCAD shx 文件(*.shx)
+
+DwgTypeVer2000=AutoCAD 2000 图形(*.dwg)
+DwgTypeVer14=AutoCAD R14 图形(*.dwg)
+DwgTypeVer12=AutoCAD R12 图形(*.dwg)
+
+DxfTypeVer2000=AutoCAD 2000 dxf(*.dxf)
+DxfTypeVer14=AutoCAD R14 dxf(*.dxf)
+DxfTypeVer12=AutoCAD R12 dxf(*.dxf)
+
+**** Added 2003.01.22
+GifType=图形交换格式(*.gif)
+MainMenuArrangeIcon=排列图标(&A)
+
+****  Added 2003.01.23
+SaveBmpCurLayout=当前布局
+SaveBmpCurDisplay=当前显示
+SaveBmpSaveArea=保存区域(&A)
+
+LtypeLoadSelAll=全选(&A)
+LtypeLoadLinetypeText=线型文件(*.lin)
+
+PenWidthColorVaries=颜色不同
+
+AddFolderDlgOnlyDWG=仅 DWG 文件
+AddFolderDlgOnlyDXF=仅 DXF 文件
+AddFolderDlgDWGDXF=DWG 和 DXF 文件
+
+TextFileName=文本文件(*.txt)
+
+TransformSaveReport=保存报告(&R)
+
+ConvertError=转换错误!
+
+LayerListViewOff=关
+
+LayerListViewDuplicateLayer=有重复的图层名称!
+
+MainMenuArrangeIconHint=在窗口底部排列图标
+
+MainMenuOpenHistory=打开该文件
+
+MainMenuHomePage=DWG 工具首页(&D)
+MainMenuHomePageHint=浏览 DWGTool 软件主页
+
+MainMenuBrowseProducts=DWGTool 其他产品软件(&O)
+MainMenuBrowseProductsHint=浏览此分类下的其他产品的 DWGTool 软件
+
+ProgressCaption=进度
+
+ZoomingExt=缩放程度 ...
+
+ChildMenuFullScreen=全屏幕(&F)
+ChildMenuFullScreenHint=切换全屏模式
+
+AlloctMemory=分配内存...
+SaveRaster=保存光栅文件...
+
+ChildMenuExit3DViewHint=退出 3D 动态视图设置
+
+ChildMenuCloseAll=全部关闭(&L)
+ChildMenuCloseAllHint=关闭全部图形文件
+
+BuynowDlgDetail=详细信息...
+BuynowDlgTrial=请让我继续使用试用版
+AgentDlgCaption=代理
+InputRegAgent=代理详情(&A)...
+
+**** Added 2003.02.24
+PrintCopies=打印份数(&C)
+
+TransformCreateDirFail=目标目录不存在，且不能创建它!
+
+**** Added 2003.03.01
+ShxDirDlgTitle=设置搜索 Ssx 字体文件，外部参照块文件和光栅文件目录
+
+**** Added 2003.03.16
+ChildMenuSelObj=选择实体(&S)
+ChildMenuSelObjHint=由点或窗口中选择实体
+
+ChildMenuSetObjProp=属性(&P)...
+ChildMenuSetObjPropHint=设置所选实体属性
+
+**** Added 2003.03.27
+ErrDwgTypeMsg=注意: 文件类型为 DWG，但文件扩展名不是“DWG”!
+ErrDxfTypeMsg=注意: 文件类型为DXF文件，但文件扩展名不是“DXF”!
+
+**** Added 2003.07.02
+ChildMenuUnits=单位(&U)...
+UnitsDlgCaption=单位
+UnitsDlgLinearUnitsGroup=线单位
+UnitsDlgArchitectural=建筑(&A)
+UnitsDlgDecimal=十进制(&D)
+UnitsDlgEngineering=工程(&E)
+UnitsDlgFractional=分数(&F)
+UnitsDlgScientific=科学(&S)
+UnitsDlgPrecision=精确(&P)
+
+SaveBmpScale=尺度
+
+**** Added 2003.07.19
+RotateViewDlgCaption=旋转视图
+RotateViewDlgAngleLab=旋转角度
+ChildMenuRotateView=旋转视图(&O)...
+ChildMenuRotateViewHint=旋转视图
+
+**** Added 2003.08.24
+ChildMenuPDFExport=PDF 导出工具(&P)...
+ChildMenuPDFExportHint=一个或多个 ACAD 文件转换成一个 PDF 文件
+PDFSelDlgTitle=选择 PDF 文件
+PDFFileType=Adobe PDF 文件(*.pdf)
+MainMenuExportSubMenu=导出(&E)
+
+**** Added 2003.08.31
+PDFExportCaption=PDF 转换工具: 多图纸转换成单一的 PDF
+PDFExportAddFiles=添加文件(&A)
+PDFExportRemoveFiles=删除文件(&R)
+PDFExportClearFiles=清除所有文件(&C)
+PDFExportAddFolder=所有的图形文件文件夹(&F)
+PDFExportUp=上(&U)
+PDFExportDown=下(&D)
+PDFFileListBookMark=书签
+PDFFileListFile=文件
+PDFExportPageWidth=页面宽度(&W)
+PDFExportPageHeight=页面高度(&H)
+PDFExportPageMargin=页面边距(&M)
+PDFExportUnits=单位(&U)
+PDFExportInch=英寸
+PDFExportmm=mm
+PDFExportColor=颜色
+PDFExportZoomExt=自动缩放范围(&E)
+PDFExportPDFFile=输出 PDF 文件(&P)
+PDFExportStart=开始(&S)
+PDFExportClose=关闭
+
+PDFInfoDlgCaption=PDF 文件信息
+PDFInfoDlgTitle=标题
+PDFInfoDlgAuthor=作者
+PDFInfoDlgSubject=主题
+PDFInfoDlgKeyWords=关键字
+
+**** Added 2004.07.24
+PWDlgTitle=密码
+PWDlgLabel=请输入图纸密码:
+
+AllDrawingType=所有绘图类型(*.dwg,*.dxf,*.dwt,*.dwf)
+DwtType=绘图模板文件(*.dwt)
+DwfType=DWF 类型(*.dwf)
+
+*** Updated and Added 2004.09.08
+SaveBmpInputScale=尺度(&L)
+LineWidth=线宽度
+
+UnregSaveDWF=这是一个未注册版本!%无法保存 DWF 文件到图形文件!%只有当您已注册这个限制将会被取消。
+
+*** Updated and Added 2005.01.03
+PenWidthListViewDestColor=目标颜色索引
+PenWidthDestColor=目标颜色(&T)
+PenWidthSets=颜色设置
+PenWidthSetsNew=新建(&N)
+PenWidthSetsDel=删除(&D)
+PenWidthSetsWarining=必须有至少一个集!%无法删除此集!
+PenWidthNewSetsPrompt=新建颜色集
+PenWidthSetsInquire=你确实要删除此集吗?
+
+MainMenuPntColorSets=打印钢笔(&P)
+MainMenuPntColorSetsHint=设置打印钢笔宽度和颜色
+
+ExportDlgUseUnits=单位(&U)
+ExportDlgPixel=像素
+ExportDlgInch=英寸
+ExportDlgmm=mm
+
+BatchUnits=单位(&U)
+
+*** Updated and Added 2005.01.08
+PenWidthDefault=重置(&R)
+PenWidthImport=导入(&I)...
+PenWidthExport=导出(&E)...
+
+ExportDlgUsePrintColor=使用打印钢笔设置
+BatchUsePintColorSet=使用打印钢笔设置
+
+PenWidthDlgCaption=钢笔设置
+
+*** Updated and Added 2005.01.09
+PenWidthSavePrmpt=钢笔设置已被修改，你想要保存它吗?
+
+ExportPenSetsTitle=导出钢笔设置
+ExportPenSetsPrompt=请选择钢笔设置到导出
+ExportPenSetsSelFilePrompt=请选择导出文件
+
+ImportPenSetsTitle=导入钢笔设置
+ImportPenSetsPrompt=请选择钢笔设置导入
+ImportPenSetsSelFilePrompt=请选择导入文件
+ImportPenSetsOverWritePrompt=钢笔设置 "%%s" 已经存在，直接覆盖吗?
+ImportPenSetsOverWriteTitle=覆盖钢笔设置
+
+PenSetsSelectAll=全选(&A)
+ExportPenSetsFileName=CADConverter 钢笔设置(*.cps)
+ExportPenSetsAllFileName=所有文件(*.*)
+
+LtypeLoadInquireText=线型 "%%s" 已加载。重新载入吗?
+
+*** Updated and Added 2005.01.18
+SVGZFileType=压缩可伸缩矢量图形(*.svgz)
+CGMFileType=计算机图形图元文件(*.cgm)
+EPSFileType=封装 PostScript(*.eps)
+PcxType=PCX 格式(*.pcx)
+
+*** Added 2005.02.25
+PickAreaPrmpt= <选择窗口: 按回车键确认，按 ESC 键取消>
+PickWindow=选择窗口 <
+SaveBmpPickWindow=选择窗口
+SaveWindowPrompt=警告：你应该选择窗口，然后保存到文件中。
+InvalidPickWinPrompt=无效的窗口！请重新选取！
+
+*** Added 2005.02.28
+LayerSelAll=全选(&A)
+LayerSelInverse=反向(&A)
+
+*** Added 2005.03.25
+BatchConvertLayout=转换布局
+BatchCurrentLayout=转换布局
+BatchModelSpace=仅适用于模型空间
+
+*** Added 2005.03.30
+BatchAllLayouts=所有布局
+
+*** Added 2005.06.10
+ExportDlgCurDisplay=当前显示
+ExportDlgZoomExt=缩放程度
+ExportDlgPickWindow=选择窗口
+ExportDlgPickWindowBtn=选择窗口 <
+ExportDlgExportArea=导出区域
+
+*** Added 2005.08.26
+ExportDlgPageSize=页面大小
+PDFExportLayout=布局(&O)
+PDFExportPageSize=页面大小(&Z)
+PDFExportPDFFileInfo=PDF 文件信息(&I)
+PDFExportPageSize=页面大小(&Z)
+BatchConvertLayout=转换布局
+SaveBmpZoomExt=缩放范围
+
+ChildPrintToFileMsg = 打印光栅文件成功
+
+*** Added 2005.09.10
+ChildMenuRecover=恢复(&R)...
+ChildMenueTransmit=电子传递(&N)...
+MainMenuFileRecover=修复一个损坏的绘图
+MainMenuFileeTransmit=创建一个图纸和相关文件传递集
+
+UnregSaveRecoverFile=这是一个未注册版本!%只有第一个图形文件将被恢复!%只有当您已注册这个限制将会被取消。
+
+DwgTypeVer2004=AutoCAD 2004 图形(*.dwg)
+DxfTypeVer2004=AutoCAD 2004 dxf(*.dxf)
+
+OnlyDrawingType=所有图形文件(*.dwg,*.dxf,*.dwt)
+Allfiles=所有文件(*.*)
+
+*** Added 2005.09.16
+TransmitDlgCaption=创建传递包
+
+TransmitListFile=文件
+TransmitListPath=路径
+TransmitListSize=大小
+
+TransmitPackFolder=封装在文件夹
+TransmitPackZIP=封装在 ZIP 文件
+TransmitPackPwZIP=封装在密码 ZIP
+TransmitAddDwg=添加图形(&A)
+TransmitAddFolder=添加文件夹中所有图纸(&F)
+TransmitRemoveDwg=删除图纸(&V)
+TransmitClearDwg=清除(&L)
+TransmitAddFiles=添加文件(&S)
+TransmitChkSel=检查所选(&H)
+TransmitUnchkSel=取消选择(&U)
+TransmitChkAll=检查所有(&K)
+TransmitUnchkAll=取消所有(&U)
+TransmitCreatePackage=创建包(&C)
+TransmitClose=关闭
+
+TransmitAddFileTitle=添加文件
+TransmitSelDestFolder=选择文件夹
+TransmitDlgInputZipFile=输入 zip 文件名
+Zipfile=ZIP 文件(*.zip)
+UnregTransmitMsg=这是一个未注册版本!%你可以只添加一个图形文件!%只有当您已注册这个限制将会被取消。
+TransmitCreateFolder=目标文件夹不存在，你要创建它吗?
+InputZipPassword=输入 ZIP 文件密码
+
+TransmitTotalFiles=文件总数:
+TransmitPackFiles=封包文件:
+TransmitPackFileSize=封包文件总大小:
+
+GetDependencyTotalProgress=总进度
+
+*** Added 2005.09.17
+InputPasswordError=这两个密码输入是不相同的，请重新输入!
+PassWordDlgReInput=重新输入密码
+PassWordDlgShowPassword=显示密码
+
+PackInFolderSuccess=在下面的文件夹封包成功:
+PackInZIPSuccess=在下面的 ZIP 文件封包成功:
+PackInZIPFailure=在下面的 ZIP 文件封包失败:
+
+TransmitBytes=字节
+PackInFolderCancel=用户取消。
+
+*** Added 2005.09.21
+RecoverDlgCaption=批量恢复图纸文件
+RecoverAddDwg=添加图纸(&A)
+RecoverAddFolder=添加文件夹中所有图纸(&F)
+RecoverRemoveDwg=删除图纸(&V)
+RecoverClearDwg=清除(&L)
+
+RecoverSaveNoErrorFile=保存绘图文件即使其中有没有错误(&S)
+RecoverAppendSuffix=保存恢复的文件附加后缀“_Recover”的文件名(&P)
+RecoverSaveShowReport=保存并显示报告...
+RecoverBeginRecover=恢复(&R)
+RecoverClose=关闭(&C)
+
+RecoverOriginFile=源文件
+RecoverStatus=状态
+RecoverSaveAs=另存为
+
+RecoverFixSuccess=修复
+RecoverNoError=无错误
+RecoverFault=错误
+
+RecoverFixFileNum=修复文件:
+RecoverNoErrorFileNum=无错误文件:
+RecoverFaultFileNum=错误文件:
+
+RecoverSaveReportTitle=保存报告
+RecoverReportTextFileType=文本文件(*.txt)
+
+RecoverReportFixNoErrorNotSave=在上面的图形文件没有任何错误，不保存它。
+RecoverReportFixNoErrorSave=在上面的图形文件没有任何错误，但仍然将它保存在下面的文件:
+RecoverReportFixSuccess=成功修复以上文件，并将其保存在下面的文件:
+RecoverReportFixFault=上面的文件无法修复!
+
+TransmitOverwritePrompt=下面的文件已经存在，是否要覆盖?
+TransmitOverwriteInquireDlgCaption=覆盖
+
+*** Added 2005.10.27
+FontReplaceTitle=字体替换
+FontReplaceFontNotFount=字体未找到 : 
+FontReplaceAll=替换所有未发现与此字体的字体
+FontReplaceBrowse=浏览...
+FontReplaceSelFont=选择字体: 
+
+AddFolderDlgDWGFiles=DWG 文件
+AddFolderDlgDXFFiles=DXF 文件
+AddFolderDlgDWFFiles=DWF 文件
+
+BatchAllPaperSpace=所有图纸空间
+
+ExportDlgTrueColors=真彩色
+PrintTrueColors=真彩色
+
+*** Added 2005.12.22
+FontReplaceReplaceFont=替换字体
+FontReplaceReplaceAllFont=没有找到与下面的字体替换所有的字体(&R)
+FontReplaceSmallFontFile=小字体文件(&M)
+FontReplaceBigFontFile=大字体文件(&B)
+FontReplaceTTFFont=Windows TTF 字体(&T)
+FontReplaceOnlyUseTTf=仅使用 TTF 字体(&U)
+FontReplaceApply=应用(&Y)
+
+OpenDwfFileFail=打开 dwf 文件失败!
+
+RecoverFail=无法恢复图形文件!
+
+*** Added 2006.01.06
+BatchConvert=批量转换(&B)
+BatchDWG2Bmp=DWG, DXF -> 位图
+BatchDWG2Jpg=DWG, DXF -> Jpeg
+BatchDWG2Gif=DWG, DXF -> GIF
+BatchDWG2Pcx=DWG, DXF -> PCX
+BatchDWG2Pdf=DWG, DXF -> PDF
+BatchDWG2Svg=DWG, DXF -> SVG
+BatchDWG2Plt=DWG, DXF -> HP-GL/2
+BatchDWG2Eps=DWG, DXF -> EPS
+BatchDWG2Cgm=DWG, DXF -> CGM
+BatchDWG2DXF=DWG -> DXF
+BatchDXF2DWG=DXF -> DWG
+BatchVerConvert=版本转换
+
+*** Added 2006.02.17
+PrintPenSetsGroup=钢笔设置
+PrintPenWidthUsePenWidth=使用钢笔设置(&U)
+PrintPenWidthSet=设置(&S)...
+
+*** Added 2006.04.17
+PDFExportLayer = 导出层(&Y)
+PDFExportFinishMsg = 下面的 PDF 文件，图形文件导出成功，你想打开它吗?
+
+*** Added 2006.11.30
+PenWidthNewSetsTitle=输入
+ExportPenSetsACADCTBFileName=AutoCAD 钢笔设置(*.ctb)
+
+*** Added 2007.01.20
+PDFExportZoomExtScale=尺度(缩放 ext)
+BatchZoomExtScale=尺度(缩放 ext)
+BatchSetPenWidth=设置钢笔宽度
+
+*** Added 2007.02.07
+PngType=PNG 格式(*.png)
+TifType=TIFF 格式(*.tif)
+TgaType=TGA 格式(*.tga)
+WmfType=Windows 图元文件(*.wmf)
+
+*** Added 2007.03.30
+BatchLineBold=线粗
+
+*** Added 2007.06.07
+ExportUseLayoutPageSize=如果可能的话，使用布局的页面大小。
+BatchDWG2Tiff=DWG, DXF -> Tiff
+
+*** Added 2007.08.18
+MinValueOfWidth=最小宽度值
+*** Added 2007.08.27
+KnowNoRemind=我明白了，请不要再提醒我了!
+Try=试试看!
+
+*** Added 2008.03.14
+BatchDWG2Wmf=DWG, DXF -> WMF
+WMFFileType=Windows 图元文件(*.wmf)
+
+***Added 2008.04.05
+ExportViewportFrame=导出视口框
+
+***Added 2008.04.29
+3dHide=删除 3D 隐藏线
+Close3DHide=无
+Auto3DHide=自动
+Force3dHide=强制
+
+***Added 2008.05.9
+KeepsSameFolder=保持子路径结构
+
+***Added 2008.07.15
+TransformCompletedAndOpen=转换完成！双击文件名打开它
+EnableLineweight=使用默认线宽
+
+***Added 2008.08.27
+BatchByScaleCaption=批量转换尺度
+BatchScale=尺度:
+BatchErrScale=这个值的尺度是不正确的!
+BatchFinish=转换完成!
+Watermark=设置水印...
+OneDrawingOneFile=每一个 PDF 文件图纸
+MergeIntoOneFile=合并成单一 PDF
+OneFilePerLayout=每个 PDF 版面文件
+PDFFileInfo=PDF 信息...
+ExportMargin=页边(英寸):
+
+***Watermark dialog box string(s)
+WM_MainCaption=水印管理
+WM_LIST=水印对象(s)
+WM_CANCEL=取消
+WM_OK=确定
+WM_HELP=帮助
+WM_PRESIZE=预览页面大小:
+WM_ADD=新建
+WM_MOD=修改
+WM_DEL=删除
+WM_Center=中心
+WM_LeftTop=左上角
+WM_Left=左侧
+WM_Top=顶部
+WM_RightTop=右上角
+WM_Right=右侧
+WM_LeftBottom=左下角
+WM_RightBottom=右下角
+WM_Bottom=底部
+WM_Tile=标题
+WM_IFDEL=您确定要删除项目吗?
+WM_ERRSIZE=这个值的页面大小不正确!
+WM_ERRNAME=水印的名称不能为空!
+WM_TIME=时间
+WM_DATE=日期
+WM_FileName=文件名
+WM_LayoutName=布局名称
+WM_Caption=设置水印
+WM_Group=水印信息
+WM_Color=颜色:
+WM_InsObject=插入对象(s) >
+WM_CHECK=检查...
+WM_FILL=填充
+WM_LOC=位置:
+WM_HEIGHT=字符高度:
+WM_MARGIN=页边:
+WM_ANGLE=角度:
+WM_SAMESCALE=每个页面高度保持相同的尺度
+
+***Added 2008.10.18
+BatchByUser=使用手动设定
+HintLayoutChanged=您已经手动设置应该输出的布局和层设置，\n如果继续, 您的设置将被忽略,\n\n您想继续吗?
+LayoutLayer=布局和层...
+ExportBookMark=导出书签
+LL_OK=确定
+LL_CANCEL=取消
+LL_TITLE=选择应该导出布局和层
+LL_DrawingList=图形文件列表
+LL_LayoutGroup=图形信息
+LL_LayerBtn=选择图层导出...
+LL_LayoutList=布局列表
+LL_Bookmark=书签
+LL_Filename=文件
+LL_LayoutName=布局名称
+LL_Hint=要查看综合绘图，并设置层需要导出，点击下面的按钮。
+VL_Title=选择你要导出的层
+VL_Apply=应用
+VL_View=这些按钮的左侧您可以查看和放大，并调整对话框的大小。
+
+***Added 2008.11.26
+OPENFAIURE_CONTINUE=打开 '%%s' 失败! \n\n你要继续吗?
+
+***Added 2009.2.23
+WM_PREVIEW=预览
+None=无
+ConvertingLayout=转换布局
+
+***Added 2009.3.19
+NR_Caption=有一些程序无法找到文件
+NR_FileName=文件名
+MainMenuFileLackingFile=丢失的文件...
+
+***Added 2009.4.9
+BatchQuality=质量
+
+***Added 2009.5.14
+ChildMenueSeparateLayers=独立的层图形...
+UnregSeparateLayers=未注册版\n\n将输出最多 5 层文件的绘图!\n\n要删除此限制，请注册 Acme CAD Converter。
+MenuTools=工具(&T)
+
+***Added 2009.6.29
+BatchProduces=生成
+BatchOpen=打开
+
+***Added 2009.7.3
+WM_IFDELALL=你一定要清除所有项目吗?
+MainMenuPageSize=自定义额外纸张尺寸...
+
+***Added 2009.8.2
+
+PAPER_Title=标题
+PAPER_Width=宽度
+PAPER_Height=高度
+PAPER_Unit=单位
+
+PAGESIZE_NEW=创建一个新的文件类型
+PAGESIZE_EDIT=修改纸张类型
+
+WM_REMOVE=删除选择
+WM_CLEAR=清除所有
+
+***Added 2010.2.26
+BkColor=Bk 颜色
+DwgTypeVer2010=AutoCAD 2010 图形(*.dwg)
+DxfTypeVer2010=AutoCAD 2010 DXF 文件(*.dxf)
+
+***Added 2011.7.21
+EmptyInputHint=<原来的图纸留空将输出保存到同一文件夹中>
+WidthTips=自动适应宽度与高度的宽度= 0，缩放程度进行检查
+HeightTips=自动适应高度与宽度的高度= 0，缩放程度进行检查
+NeedPDFFileNameOutput=<为了启动转换需要一个 PDF 文件名>
+SaveFileFailed=保存文件 '%%s' 失败
+
+TransformFailed=转换失败 !
+
+PDFSetEncrypt=PDF 设置和加密...
+
+PDFInfoDlgSecureInfo=安全选项
+PDFInfoDlgEncrypt=加密 PDF 文件
+PDFInfoDlgPassword=密码
+PDFInfoDlgPS=请注意，密码是区分大小写的（字母和数字），你也可以保持密码为空，所以，没有密码打开PDF。
+PDFInfoDlgNoCopy=不复制
+PDFInfoDlgNoPrint=不打印
+PDFInfoDlgNoEdit=不编辑
+
+ChildMenuPDFTool=多重图纸转换成单一PDF
+
+**Added 2012.3.5
+
+SetPlotStyle=设置打印样式和颜色
+PlotStyle=打印样式
+UsePlotStyle=使用打印样式
+EnablePlotStyle=启用线宽
+LineWeightScale=线宽尺度:
+ForModel=仅缩放模型空间
+CurPenSet=当前钢笔设置:
+BatchUsePintColorSet=使用打印钢笔设置
+PenSet=钢笔设置...
+BatchColor=颜色
+BKColorLB=背景色
+XRefPathList=搜索路径列表...
+
+***End

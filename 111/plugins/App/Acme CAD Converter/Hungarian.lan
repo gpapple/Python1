@@ -1,0 +1,1015 @@
+Hungarian
+v7.98
+
+Translator=Fõzõ Krisztián [Magyar]
+AboutTranslatorLabel=Fordítás:
+
+OkCaption=&OK
+CancelCaption=&Mégsem
+
+BuyNowCaption=&Megvásárolom...
+
+SaveError=Fájl mentési hiba!
+SaveSuccess=Fájl mentése rendben!
+
+OpenFileFail=Fájl megnyitási hiba!
+ImportFileFail=Fájl importálási hiba!
+
+clBlack=Fekete
+clRed=Vörös
+clYellow=Sárga
+clGreen=Zöld
+clAqua=Vkék
+clBlue=Kék
+clFuchsia=Bíbor
+clWhite=Fehér
+clDarkGray=Sötétszürke
+clColor=Szín:
+
+JpegHigh=kiváló
+JpegLow=gyenge
+JpegQuality=&Jpeg min.
+SaveBmpWidth=Széles
+SaveBmpHeight=Magas
+SaveBmpIncludeMask=Masz&k mentése
+SaveBmpWinSize=Ablakméretre
+SaveBmpLockSize=&Aránytartással
+
+NoMemory=Nincs elég memória!
+NoDefaultPrinter=Nincs kiválasztva alapértelmezett nyomtató.%Így nem lehet nyomtatni!
+RegenDrawing=Rajz regenerálása...
+TransferPrinter=Nyomtatás folyamatban...
+TransferRaster=Raszterkép készítése...
+
+ChildOpeningFile=Fájl megnyitása:
+RedrawingMsg=Rajz regenerálása...
+
+MainMenuFile=&Fájl
+ChildMenuView=&Nézet
+ChildMenuFormat=F&ormátum
+
+ChildMenuSave=Mentés másként...
+ChildMenuSaveHint=Rajz mentése más néven/formátumban
+
+ChildMenuClose=&Bezárás
+ChildMenuCloseHint=Bezárja az aktív rajzot
+
+ChildMenuSaveBmp=Mentés &raszterképként...
+ChildMenuSaveBmpHint=Rajz mentése raszterképként
+
+ChildMenuSaveLayoutBmp=&Elrendezés mentése raszterképként...
+ChildMenuSaveLayoutBmpHint=Elrendezés mentése raszterképként
+
+ChildMenuPrint=&Nyomtatás...
+ChildMenuPrintHint=Rajz nyomtatása plotterre, nyomtatóra vagy fájlba
+
+ChildMenuLayer=&Fóliák...
+ChildMenuLayerHint=Fóliák kezelése
+
+ChildMenuLinetype=&Vonaltípusok...
+ChildMenuLinetypeHint=Vonaltípusok formátumának beállítása
+
+ChildMenuPtStyle=&Pontstílus...
+ChildMenuPtStyleHint=Pontok stílusának beállítása
+
+ChildMenuViewPoint=Nézõpont beállítása...
+ChildMenuViewPointHint=3D nézet nézõpontjának beállítása
+
+ChildMenuViewFront=&Elölnézet
+ChildMenuViewFrontHint=Nézõpont beállítása elölnézetbe
+
+ChildMenuViewBack=&Hátulnézet
+ChildMenuViewBackHint=Nézõpont beállítása hátulnézetbe
+
+ChildMenuLeft=Oldalnézet &balról
+ChildMenuLeftHint=Nézõpont beállítása baloldali nézetbe
+
+ChildMenuRight=Oldalnézet &jobbról
+ChildMenuRightHint=Nézõpont beállítása jobboldali nézetbe
+
+ChildMenuTop=&Felülnézet
+ChildMenuTopHint=Nézõpont beállítása felülnézetbe
+
+ChildMenuBottom=&Alulnézet
+ChildMenuBottomHint=Nézõpont beállítása alulnézetbe
+
+ChildMenuSWIso=&DNy-i izometrikus nézet
+ChildMenuSWIsoHint=Nézõpont beállítása DNy-i izometrikus nézetbe
+
+ChildMenuSEIso=D&K-i izometrikus nézet
+ChildMenuSEIsoHint=Nézõpont beállítása DK-i izometrikus nézetbe
+
+ChildMenuNEIso=&ÉK-i izometrikus nézet
+ChildMenuNEIsoHint=Nézõpont beállítása ÉK-i izometrikus nézetbe
+
+ChildMenuNWIso=&Ny-i izometrikus nézet
+ChildMenuNWIsoHint=Nézõpont beállítása ÉNy-i izometrikus nézetbe
+
+ChildMenuZoomExt=Min&dent mutat
+ChildMenuZoomExtHint=A teljes rajzot mutassa az ablakban
+
+ChildMenuZoomIn=&Nagyítás
+ChildMenuZoomInHint=Nagyítás faktorral
+
+ChildMenuZoomOut=&Kicsinyítés
+ChildMenuZoomOutHint=Kicsinyítés faktorral
+
+ChildMenuZoomWin=&Tetszõleges nagyítás
+ChildMenuZoomWinHint=Megadott tetszõleges terület felnagyítása
+
+ChildMenuRegen=&Regenerálás
+ChildMenuRegenHint=Rajz regenerálása
+
+ChildMenuZoomPre=Elõzõ nézet
+ChildMenuZoomPreHint=Az elõzõ nézet visszaállítása
+
+ChildMenuPan=&Eltolás
+ChildMenuPanHint=Rajz eltolása
+
+ChildMenuPanLeft=Eltolás &balra
+ChildMenuPanLeftHint=Rajz eltolása balra
+
+ChildMenuPanRight=Eltolás &jobbra
+ChildMenuPanRightHint=Rajz eltolása jobbra
+
+ChildMenuPanUp=Eltolás &fel
+ChildMenuPanUpHint=Rajz eltolása felfelé
+ChildMenuPanDown=Eltolás &le
+ChildMenuPanDownHint=Rajz eltolása lefelé
+ChildMenu256Colors=&eredeti színek
+ChildMenu256ColorsHint=Rajz megjelenítése a rajzban tárolt eredeti színekkel
+
+ChildMenuGrayColors=&szürkeskála
+ChildMenuGrayColorsHint=Rajz megjelenítése szürkeskálában
+
+ChildMenuBWColor=&fekete-fehér
+ChildMenuBWColorHint=Rajz megjelenítése fekete-fehérben
+
+ChildMenu3DView=3D &dinamikus nézet
+ChildMenu3DViewHint=3D dinamikus nézet párhuzamos vetítéssel vagy perspektívában
+
+ChildMenuExit3DView=&Kilépés
+
+ChildMenuUcsIcon=&FKR ikon
+
+ChildMenuUIOn=&Be
+ChildMenuUIOnHint=Megjeleníti az FKR ikont (3D tengelykereszt)
+
+ChildMenuUIOR=&Origónál
+ChildMenuUIORHint=Ha lehetséges, az FKR ikont az FKR origónál jeleníti meg
+
+ChildMenuColors=&Színek
+ChildMenu3DViews=&3D nézetek
+
+InitError=Inicializálási hiba
+
+OpenDWGDlgPreviewAll=Gyorsnézet minden fájlról
+
+MainRegSuccess=Köszönjük!%A regisztráció sikerült!
+MainRegFail=Regisztrációs hiba!%Kérjük ismételje meg a regisztrációt!
+MainNotReg=Kérjük ismételje meg a regisztrációt!
+
+CreateAssociationSuccessfully=A fájl-kiterjesztések hozzárendelése sikerült!
+RestoreAssociationSuccessfully=A régi fájl-kiterjesztés hozzárendelések visszaállítva!
+
+CannotImport=Nem lehet más fájlformátumot megnyitni megfelelõ plugin nélkül! 
+
+MainMenuFile=&Fájl
+MainMenuOption=&Beállítások
+MainMenuWindow=&Ablakok
+MainMenuHelp=&Súgó
+MainMenuExit=&Kilépés
+MainMenuExitHint=Kilépés a CADConverter programból
+
+MainMenuAbout=Programról...
+MainMenuAboutHint=Információk a CADConverter programról
+
+MainMenuReg=Regisztráció
+MainMenuRegHint=Itt adhatja meg a regisztrációs kódját
+
+MainMenuBuy=&Megvásárlás...
+MainMenuBuyHint=Itt vásárolhatja meg a CADConverter programot
+
+MainMenuOpen=&Megnyitás...
+MainMenuOpenHint=Rajzfájl megnyitása
+
+MainMenuBatch=&Csoportos konvertálás...
+MainMenuBatchHint=Rajzfájlok csoportos konvertálása más formátumra
+
+MainMenuImport=I&mport...
+MainMenuImportHint=Különbözõ formátumú fájlok importálása (plugin szükséges)
+
+MainMenuSetBkColor=&Háttérszín...
+MainMenuSetBkColorHint=Aktív ablak háttérszínének beállítása
+
+MainMenuSetShxDir=SH&X mappák...
+MainMenuSetShxDirHint=SHX mappák útvonalának beállítása
+
+MainMenuCreateAssociated=Fájl-kiterjesztések hozzárendelése
+MainMenuCreateAssociatedHint=.dwg és .dxf fájl-kiterjesztések hozzárendelése a CADConverter programhoz
+
+MainMenuRestoreAssociated=Fájl-kiterjesztések &visszaállítása
+MainMenuRestoreAssociatedHint=Régi .dwg és .dxf fájl-kiterjesztés hozzárendelések visszaállítása
+
+MainMenuLanguage=&Nyelvi csomag...
+MainMenuLanguageHint=Nyelvi csomag kiválasztása
+
+MainMenuVerTile=Egymás &alatt
+MainMenuVerTileHint=Ablakok elhelyezése mozaikszerûen egymás alatt
+
+MainMenuHorTile=Egymás &mellett
+
+MainMenuCascade=&Lépcsõzetesen
+
+BatchCaption=Csoportos konvertálás
+BatchUnregMsg=Kipróbálható verzió.%A funkció használatához regisztráció szükséges!
+BatchTargetFormat=&Célformátum:
+
+BatchWidth=&Széles:
+BatchHeight=&Magas:
+JpegQuality=&Jpeg min.
+JpegLow=gyenge
+JpegHigh=kiváló
+BatchColor=Színek:
+BatchZoomExt=Mindig a tel&jes rajzot
+BatchMask=Mas&zk mentése
+BatchAddFiles=&Hozzáadás
+BatchDelFiles=&Eltávolítás
+BatchClearFiles=&Összes eltávolítása
+BatchStart=&Indítás
+BatchClose=&Bezárás
+
+TransformDlgCaption=Konvertálás...
+TransformStop=&Állj
+TransformOpenFile=Fájl megnyitása
+TransformUserBreak=Felhasználói megszakítás!
+TransformOverwriteFile=Meglévõ fájl felülírása:
+TransformComfirm=Rendben
+TransformSaveFile=Fájl mentése
+TransformFile=Fájl konvertálása
+TransformCompleted=A konvertálás véget ért!
+TransformClose=&Bezárás
+TransformNoDetailInfo=&Rövid info <<
+TransformDetailInfo=&Részletes info >>
+TransformTotalProgress=Folyamat állapota
+
+AboutCaption=Program info: 
+AboutWebsite=Honlap:
+AboutSupportEMail=Támogatás:
+AboutDownloadnewversion=Legfrissebb verzió letöltése
+
+InputRegDlgCaption=Regisztráció
+InputRegRegister=&Regisztrálom
+InputRegCode=Kód :
+
+SelColorDlgCaption=Színválasztás
+SelColorStandardColors=Alapszínek
+SelColorAllColors=Teljes színpaletta
+SelColorGrayColors=Szürkeárnyalatok
+SelColorSelColor=Kiválasztott szín
+
+ShxDirDlgCaption=SHX mappák megadása
+ShxDirDirectory=&Mappa:
+ShxDirAdd=&Hozzáad
+ShxDirReplace=&Cserél
+ShxDirDelete=&Töröl
+ShxDirDelInvalid=Hi&bás mappák törlése
+
+LayerDlgCaption=Fóliák és vonaltípusok formátuma
+
+LayerLayerSheet=Fóliák
+LayerLtypeSheet=Vonaltípusok
+
+LayerListViewName=Név
+LayerListViewOn=Be
+LayerListViewColor=Szín
+LayerListViewLtype=Vonaltípus
+
+LayerDetail=Részletek
+LayerName=&Név:
+LayerLtype=&Vonaltípus:
+LayerColor=&Szín
+LayerOn=&Be
+
+LayerLtypeListViewLtype=Vonaltípus
+LayerLtypeListViewDescription=Leírás
+LayerLoadLtype=&Betöltés...
+LayerLtScale=&Globális méretarány:
+LayerPsLtScale=&Papírtér-egységek használata
+
+LtypeLoadDlgCaption=Vonaltípusok betöltése
+
+LtypeLoadFile=&Fájl...
+LtypeLoadAvailableLtype=Betölthetõ vonaltípusok:
+
+LtypeLoadListViewLtype=Vonaltípus
+LtypeLoadListViewDesciption=Leírás
+
+ReloadLtypeCaption=Vonaltípus betöltése újra
+ReloadLtypeYes=&Igen
+ReloadLtypeYestoAll=Igen, &mindet
+ReloadLtypeNo=&Nem
+ReloadLtypeNotoAll=Egyiket &sem
+
+ViewAngleDlgCaption=Nézõpont beállítása
+
+ViewAngleSetAngle=Nézeti szögek beállítása:
+ViewAngleSetPlan=Visszaállítás &alaprajzi nézetre
+
+ViewAngleXAxis=X tengelytõl:
+ViewAngleXYAngle=XY síktól:
+
+PtTypeDlgCaption=Pontstílus beállítása
+PtTypeUnits=egység
+
+PtTypeSize=Pontméret:
+PtTypeRelative=A &képernyõhöz viszonyítva
+PtTypeAbsolute=A&bszolút egységekben
+
+PrintDlgCaption=Nyomtatási beállítások
+
+PrintUnitmm=Nyomt. mm
+PrintUnitInch=Nyomt. inch
+PrintPaperSize=Papírméret:
+PrintPaperSizeBy=x
+
+PrintDevice=Ny&omtató
+PrintPenWidth=&Tollak és színek...
+
+PrintGroupArea=Nyomtatási terület
+PrintDisplay=Meg&jelenítés
+PrintWindow=&Tetszõleges
+PrintLayout=&Elrendezés
+PrintWinPick=Terület &megadása
+
+PrintGroupRaster=Nyomtatás raszterképbe
+PrintRasterExport=&Raszterkép fájlba
+PrintRasterFile=&Fájlnév...
+
+PrintColor=&Színek:
+PrintBlackColor=fekete-fehér
+PrintGrayColor=szürkeskála
+Print256Colors=256 szín
+
+PrintGroupPapaSize=Papírméret
+PrintInch=&inch
+
+Printmm=&mm
+
+PrintGroupScale=Méretarány, forgatás, eltolás
+PrintRotate=For&gatási szög:
+PrintOffsetX=d&X:
+PrintOffsetY=d&Y:
+PrintCenter=Raj&z közepére
+PrintDrawingUnit=Rajzi egység
+PrintScaleFit=La&pkitöltve
+
+PrintPreview=Nyomtatás&i kép
+PrintPrint=&Nyomtatás
+
+PreviewDlgCaption=Nyomtatási kép - Nyomja meg az ESC vagy az Enter gombot a kilépéshez, kattintson a jobb gombbal a menu aktiválásához.
+PreviewPan=&Eltolás
+PreviewZoom=&Nagyítás
+PreviewZoomFit=Min&dent mutat
+PreviewExit=&Kilépés
+
+PenWidthDlgCaption=Tollak és színek beállítása nyomtatáshoz
+
+InvalidNumberMsg=Érvénytelen szám!
+
+PenWidthListViewColor=Eredeti szín
+PenWidthListViewWidth=Vastagság
+PenWidthColor=Szín:
+PenWidthWidth=&Vastagság:
+
+PenWidthUnit=Egység
+PenWidthInch=&inch
+PenWidthmm=&mm
+
+SetLanDlgCaption=Nyelvi csomag betöltése
+SetLanLanList=Nyelvi csomagok listája
+SetLanCurLan=Jelenlegi nyelvi fájl:
+
+Added 2002.08.17
+FileNotFount=A fájl nem található.
+LayoutModal=Modell
+LayoutPaper=Elrendezés
+
+ChildSaveDlgTitle=Rajzfájl mentése
+ChildSavingFile=Fájl mentése
+ChildNoDrawing=Nincs rajzfájl
+
+SaveBmpTitle=Rajz mentése raszterképként
+SaveBmpFileSize=Raszterkép mérete:
+
+SaveLayoutBmpTitle=Elrendezés mentése raszterképként
+
+BatchOpenDwgDlgTitle=Rajzfájl kiválasztása
+
+UnregText=Kipróbálható verzió.
+UnregPrompt=Kipróbálható verzió.%A raszterképen szerepelni fog az "AcmeCADConverter" szöveg!%A korlátozást csak a regisztráció oldja fel.
+UnregPrintPrompt=Kipróbálható verzió.%A kinyomtatott lapon szerepelni fog az "Acme CADConverter" szöveg!%A korlátozást csak a regisztráció oldja fel.
+
+BatchBWColor=fekete-fehér
+BatchGrayColor=szürkeskála
+Batch256Color=256 szín
+
+Added 2002.08.23
+NonePreviewPicture=(Nincs kép)
+
+DrawingType=DWG rajz fájl (*.dwg)
+DxfType=DXF fájl (*.dxf)
+
+BmpType=BMP fájl (*.bmp)
+JpegType=JPEG fájl (*.jpg)
+
+PrintMsgDlgCaption=Nyomtatási üzenet
+PrintExportToRasterTitle=Raszterkép elnevezése
+
+MainMenuIndex=&Index
+MainMenuIndexHint=Súgó index megjelenítése
+
+MainMenuHorTileHint=Ablakok elhelyezése mozaikszerûen egymás mellett
+
+MainMenuCascadeHint=Ablakok elhelyezése lépcsõzetesen egymást fedve
+
+Added 2002.08.26
+SelectShxDirDlgCap=Mappa kiválasztása
+
+Added 2002.09.02
+ChildMenuExport=&Exportálás...
+ChildMenuExportHint=Rajz exportálása más vektoros fájlformátumba
+NotSupportVecFormat=A vektoros formátum nem támogatott!
+
+ExportDlgTitle=Exportálás
+ExportDlgWidth=Széles
+ExportDlgHeight=Magas
+ExportDlgColors=Színek:
+ExportDlgLockSize=&Aránytartással
+ExportDlgZoomExt=Tel&jes rajzot
+ExportDlgBlack=fekete-fehér
+ExportDlgGray=szürkeskála
+ExportDlg256Colors=256 szín
+
+SVGType=SVG fájl (*.svg)
+HPGLType=HP-GL/2 plotfájl (*.plt)
+
+UnregExportPrompt=Kipróbálható verzió.%A vektoros fájlban szerepelni fog az "DemoCADConverter" szöveg!%A korlátozást csak a regisztráció oldja fel.
+SaveBmpZoomExt=Tel&jes rajzot
+
+BatchSameFile=Azonos nevû fájlok kezelése:
+BatchOverwrite=Felülírás kérdés nélkül
+BatchPrompt=Kérdezzen
+BatchGenerate=Automatikus átnevezés
+BatchTargetDir=Célmap&pa:
+BatchAddFolder=Tel&jes mappa hozzáadása
+BatchTargetDirDlgCap=Célmappa kiválasztása
+BatchOption=Beállítások
+
+AddFloderDlgCap=Teljes mappa hozzáadása
+AddFloderDlgCap=Mappa kiválasztása
+AddFolderDlgIncludeSub=Almappákkal együtt
+AddFolderDlgFileTypeGrp=Fájltípusok
+AddFolderDlgAddDWG=DWG fájlokat
+AddFolderDlgAddDXF=DXF fájlokat
+
+TransformSuccess= Sikerült!
+TransformFail= Hiba!
+
+ParamError=Hibás paraméter!
+
+**** Added 2002.09.09
+OpenShxDlgTitle=SHX betûtípus fájl kiválasztása
+CADShxFileType=SHX betûtípus fájl (*.shx)
+
+DwgTypeVer2000=AutoCAD 2000 DWG rajz fájl (*.dwg)
+DwgTypeVer14=AutoCAD R14 DWG rajz fájl (*.dwg)
+DwgTypeVer12=AutoCAD R12 DWG rajz fájl (*.dwg)
+
+DxfTypeVer2000=AutoCAD 2000 DXF fájl (*.dxf)
+DxfTypeVer14=AutoCAD R14 DXF fájl (*.dxf)
+DxfTypeVer12=AutoCAD R12 DXF fájl (*.dxf)
+
+**** Added 2003.01.22
+GifType=GIF fájl (*.gif)
+MainMenuArrangeIcon=&Ikonok elrendezése
+
+****  Added 2003.01.23
+SaveBmpCurLayout=Jelenlegi elrendezés
+SaveBmpCurDisplay=Megjelenített terület
+SaveBmpSaveArea=&Terület:
+
+LtypeLoadInquireText=A vonaltípus már be van töltve: %s. Újra betölti?
+LtypeLoadSelAll0=&Mindet
+LtypeLoadLinetypeText=LIN Vonaltípus fájl (*.lin)
+
+PenWidthColorVaries=Színek szerint
+AddFolderDlgOnlyDWG=Csak DWG fájlokat
+AddFolderDlgOnlyDXF=Csak DXF fájlokat
+AddFolderDlgDWGDXF=DWG és DXF fájlokat
+
+TextFileName=Szöveg fájl (*.txt)
+
+TransformSaveReport=Jelentés &mentése
+
+ConvertError=Konvertálási hiba!
+
+LayerListViewOff=Ki
+
+LayerListViewDuplicateLayer=Duplikált fólianév!
+
+MainMenuArrangeIconHint=Ikonok elrendezése az ablak aljára
+
+MainMenuOpenHistory=Fájl megnyitása:
+
+MainMenuHomePage=A &Freefire honlapja
+MainMenuHomePageHint=Látogatás a Freefire studio honlapjára
+
+MainMenuBrowseProducts=A Freefire t&öbbi terméke
+MainMenuBrowseProductsHint=Látogatás a Freefire többi termékének honlapjára
+
+AboutDownloadDLLProduct=A CADConverter DLL változatának letöltése !!!
+
+ProgressCaption=Állapot
+
+ZoomingExt=Mindent mutat...
+
+ChildMenuFullScreen=&Teljes képernyõs mód
+ChildMenuFullScreenHint=Váltás teljes képernyõs megjelenítési módba
+
+AlloctMemory=Memória lefoglalása...
+SaveRaster=Mentés raszterképbe...
+
+ChildMenuExit3DViewHint=Kilépés a 3D dinamikus nézetbõl
+
+ChildMenuCloseAll=&Összes bezárása
+ChildMenuCloseAllHint=Az összes betöltött rajz bezárása
+
+BuynowDlgDetail=Részletek...
+BuynowDlgTrial=A kipróbálható verzió használata
+AgentDlgCaption=Ügynök
+InputRegAgent=&Ügynök adatai...
+
+**** Added 2003.02.24
+PrintCopies=M&ásolatok:
+
+TransformCreateDirFail=A célmappa nem létezik, és nem is hozható létre!
+
+**** Added 2003.03.01
+ShxDirDlgTitle=Adja meg az SHX betûtípusok, az xref-blokk fájlok és a raszterfájlok mappáit
+
+**** Added 2003.03.16
+ChildMenuSelObj=&Elemek kiválasztása
+ChildMenuSelObjHint=Rajzi elemek kiválasztása rámutatással vagy bekeretezéssel
+
+ChildMenuSetObjProp=&Jellemzõk...
+ChildMenuSetObjPropHint=A kiválasztott elemek jellemzõinek beállítása
+
+**** Added 2003.03.27
+ErrDwgTypeMsg=Note: A fájl típusa DWG, de a kiterjesztése nem ".dwg" !
+ErrDxfTypeMsg=Note: A fájl típusa DXF, de a kiterjesztése nem ".dxf" !
+
+**** Added 2003.07.02
+ChildMenuUnits=&Mértékegységek...
+UnitsDlgCaption=Mértékegységek
+UnitsDlgLinearUnitsGroup=Hossz egységek
+UnitsDlgArchitectural=&Építészeti
+UnitsDlgDecimal=&Decimális
+UnitsDlgEngineering=&Mérnöki
+UnitsDlgFractional=&Tört alakú
+UnitsDlgScientific=&Tudományos
+UnitsDlgPrecision=&Pontosság
+
+;SaveBmpInputScale=Méretarány megadásával
+;SaveBmpScale=Arány:
+
+**** Added 2003.07.19
+RotateViewDlgCaption=Nézet forgatása
+RotateViewDlgAngleLab=Forgatási szög
+ChildMenuRotateView=Nézet forgatása...
+ChildMenuRotateViewHint=Aktuális nézet forgatása
+
+**** Added 2003.08.24
+ChildMenuPDFExport=Csoportos exportálás egy &PDF fájlba...
+ChildMenuPDFExportHint=Egy vagy több AutoCad fájl exportálása egy közös PDF fájlba
+PDFSelDlgTitle=PDF célfájl kiválasztása
+PDFFileType=PDF fájl (*.pdf)
+MainMenuExportSubMenu=&Export
+
+**** Added 2003.08.31
+PDFExportCaption=Rajzok csoportos exportálása egy PDF fájlba
+PDFExportAddFiles=Rajz &hozzáadása
+PDFExportRemoveFiles=&Eltávolítás
+PDFExportClearFiles=&Összes eltávolítása
+PDFExportAddFolder=Tel&jes mappa hozzáadása
+PDFExportUp=&Fel
+PDFExportDown=&Le
+PDFFileListBookMark=Könyvjelzõ
+PDFFileListFile=Fájl
+PDFExportPageWidth=Oldal &szélessége:
+PDFExportPageHeight=Oldal &magassága:
+PDFExportPageMargin=&Margók mérete:
+PDFExportUnits=Egység:
+PDFExportInch=inch
+PDFExportmm=mm
+PDFExportColor=&Színek:
+PDFExportZoomExt=Mindig a tel&jes rajzot
+PDFExportPDFFile=&PDF fájl:
+PDFExportStart=&Indítás
+PDFExportClose=&Bezárás
+
+PDFInfoDlgCaption=PDF dokumentum információk
+PDFInfoDlgTitle=&Cím:
+PDFInfoDlgAuthor=&Szerzõ
+PDFInfoDlgSubject=&Tárgy:
+PDFInfoDlgKeyWords=&Kulcsszavak:
+
+**** Added 2004.07.24
+PWDlgTitle=Jelszó
+PWDlgLabel=Adja meg a rajz jelszavát:
+
+AllDrawingType=Minden rajzformátum (*.dwg,*.dxf,*.dwt,*.dwf)
+DwtType=Rajz-sablon fájl (*.dwt)
+DwfType=DWF rajz fájl (*.dwf)
+
+*** Updated and Added 2004.09.08
+SaveBmpInputScale=A&rány:
+LineWidth=Vonalvastagság:
+
+UnregSaveDWF=A kipróbálható verzióban nem tud DWF fájlt menteni!%Ehhez regisztrálnia kell a CADConverter programot.
+
+*** Updated and Added 2005.01.03
+PenWidthListViewDestColor=Módosított szín
+PenWidthDestColor=&Szín módosítása
+PenWidthSets=Színkészlet:
+PenWidthSetsNew=Ú&j
+PenWidthSetsDel=&Törlés
+PenWidthSetsWarining=Egy színkészletnek mindig léteznie kell, ezért az utolsó törlése nem lehetséges.
+PenWidthNewSetsPrompt=Adja meg az új színkészlet nevét:
+;PenWidthDefault=&Alapértékek
+;PenWidthSavePrmpt=A jelenlegi színkészlet megváltozott. El kívánja menteni a változásokat?
+PenWidthSetsInquire=Biztosan törli a jelenlegi színkészletet?
+
+;ExportDlgUsePrintColor=&Nyomtatási színkészlet alapján
+;BatchUsePintColorSet=&Nyomtatási színkészlet alapján
+
+MainMenuPntColorSets=&Tollak és színek...
+MainMenuPntColorSetsHint=Tollvastagságok és színek beállítása nyomtatáshoz
+
+ExportDlgUseUnits=&Egység:
+ExportDlgPixel=pixel
+ExportDlgInch=inch
+ExportDlgmm=mm
+
+BatchUnits=&Egység:
+
+*** Updated and Added 2005.01.08
+PenWidthDefault=&Alapértékek
+PenWidthImport=Im&port...
+PenWidthExport=&Export...
+
+ExportDlgUsePrintColor=&Nyomt. színkészlettel
+BatchUsePintColorSet=&Nyomt. színkészlettel
+
+PenWidthDlgCaption=Tollvastagságok és színek beállítása nyomtatáshoz
+
+*** Updated and Added 2005.01.09
+PenWidthSavePrmpt=A jelenlegi színkészlet megváltozott. El kívánja menteni a változásokat?
+
+ExportPenSetsTitle=Színkészlet exportálása
+ExportPenSetsPrompt=Kérem válassza ki az exportálásra kerülõ színkészletet:
+ExportPenSetsSelFilePrompt=Kérem adja meg az export fájl nevét:
+
+ImportPenSetsTitle=Színkészlet importálása
+ImportPenSetsPrompt=Kérem válassza ki az importálásra kerülõ színkészletet:
+ImportPenSetsSelFilePrompt=Kérem adja meg az import fájl nevét:
+ImportPenSetsOverWritePrompt=A kiválasztott színkészlet már létezik: %%s.   Felülírja?
+ImportPenSetsOverWriteTitle=Létezõ színkészlet felülírása
+
+PenSetsSelectAll=&Mindet
+ExportPenSetsFileName=CADConverter színkészlet fájl (*.cps)
+ExportPenSetsAllFileName=Minden fájl (*.*)
+
+LtypeLoadInquireText=A kiválasztott vonaltípus már be van töltve: %%s.   Újra betölti?
+
+*** Updated and Added 2005.01.18
+SVGZFileType=Tömörített SVG fájl (*.svgz)
+CGMFileType=CGM fájl (*.cgm)
+EPSFileType=EPS fájl (*.eps)
+PcxType=PCX fájl (*.pcx)
+
+*** Added 2005.02.25
+PickAreaPrmpt= <Terület megadása: Enter - elfogad, ESC - Mégsem>
+PickWindow=Terület megadása
+SaveBmpPickWindow=Tetszõleges terület
+SaveWindowPrompt=Figyelem: Mentés elõtt meg kell adjon egy területet!
+InvalidPickWinPrompt=Érvénytelen terület! Kérem adja meg újra!
+
+*** Added 2005.02.28
+LayerSelAll=&Mindent kijelöl
+LayerSelInverse=&Inverz kijelölés
+
+*** Added 2005.03.25
+BatchConvertLayout=Terület:
+BatchCurrentLayout=Aktív elrendezés
+BatchModelSpace=Modelltér
+
+*** Added 2005.03.30
+BatchAllLayouts=Minden elrendezés
+
+*** Added 2005.06.10
+ExportDlgCurDisplay=Megjelenített terület
+ExportDlgZoomExt=Teljes rajz
+ExportDlgPickWindow=Tetszõleges terület
+ExportDlgPickWindowBtn=Terület megadása
+ExportDlgExportArea=Terület:
+
+*** Added 2005.08.26
+ExportDlgPageSize=&Lapméret:
+PDFExportLayout=&Terület:
+PDFExportPageSize=La&pméret:
+PDFExportPDFFileInfo=PDF &információk
+BatchConvertLayout=Terület:
+SaveBmpZoomExt=Teljes rajz
+
+ChildPrintToFileMsg = A raszterképbe való nyomtatás sikeresen megtörtént.
+
+*** Added 2005.09.10
+ChildMenuRecover=Rajzok csoportos &kijavítása...
+ChildMenueTransmit=&Elektronikus tervcsomag készítése...
+MainMenuFileRecover=Sérült rajz kijavítása
+MainMenuFileeTransmit=Rajzfájlok és csatlakozó állományaik tervcsomaggá való alakítása elektronikus továbbításhoz
+
+UnregSaveRecoverFile=Kipróbálható verzió.%Csak az elsõ rajzfájl kerül kijavításra!%A korlátozást csak a regisztrációval oldhatja fel.
+
+DwgTypeVer2004=AutoCAD 2004 DWG rajz fájl (*.dwg)
+DxfTypeVer2004=AutoCAD 2004 DXF fájl (*.dxf)
+
+OnlyDrawingType=Minden rajzformátum (*.dwg,*.dxf,*.dwt)
+Allfiles=Minden fájl (*.*)
+
+*** Added 2005.09.16
+TransmitDlgCaption=Elektronikus tervcsomag készítése
+
+TransmitListFile=Fájl
+TransmitListPath=Mappa
+TransmitListSize=Méret
+
+TransmitPackFolder=Gyûjtés közös mappába
+TransmitPackZIP=Gyûjtés ZIP fájlba
+TransmitPackPwZIP=Gyûjtés jelszavas ZIP fájlba
+TransmitAddDwg=Rajz &hozzáadása
+TransmitAddFolder=Tel&jes mappa hozzáadása
+TransmitRemoveDwg=&Eltávolítás
+TransmitClearDwg=Egyik &sem
+TransmitAddFiles=Fájl ho&zzáadása
+TransmitChkSel=Kiválasztást  &IGEN
+TransmitUnchkSel=Kiválasztást  &NEM
+TransmitChkAll=Min&degyiket
+TransmitUnchkAll=Egyiket &sem
+TransmitCreatePackage=&Tervcsomag készítése
+TransmitClose=Bezárás
+
+TransmitAddFileTitle=Fájl hozzáadása
+TransmitSelDestFolder=Mappa kiválasztása
+TransmitDlgInputZipFile=ZIP célfájl kiválasztása
+Zipfile=ZIP fájl (*.zip)
+UnregTransmitMsg=Kipróbálható verzió.%Csak egy rajzfájt adhat a tervcsomaghoz!%A korlátozást csak a regisztrációval oldhatja fel.
+TransmitCreateFolder=A célmappa nem létezik. Létre akarja most hozni?
+InputZipPassword=Adja meg a ZIP fájl jelszavát:
+
+TransmitTotalFiles=Összes fájl:
+TransmitPackFiles= Kijelölt fájl:
+TransmitPackFileSize= Kijelölés mérete:
+
+GetDependencyTotalProgress=Folyamat állapota
+
+*** Added 2005.09.17
+InputPasswordError=A két jelszó nem azonos, kérem adja meg újra!
+PassWordDlgReInput=Ismételje meg:
+PassWordDlgShowPassword=Jelszó mutatása
+
+PackInFolderSuccess=A tervcsomag a közös mappában elkészült:
+PackInZIPSuccess=A tervcsomag a ZIP fájlban elkészült:
+PackInZIPFailure=A tervcsomag a ZIP fájlban HIBÁS:
+
+TransmitBytes=Bájt
+PackInFolderCancel=Felhasználói megszakítás
+
+*** Added 2005.09.21
+RecoverDlgCaption=Rajzok csoportos kijavítása
+RecoverAddDwg=Rajz &hozzáadása
+RecoverAddFolder=Tel&jes mappa hozzáadása
+RecoverRemoveDwg=&Eltávolítás
+RecoverClearDwg=Egyiket &sem
+
+RecoverSaveNoErrorFile=Hibátlan rajzok mentése is
+RecoverAppendSuffix="_Recover" utótag hozzáfûzése a kijavított fájlok nevéhez
+RecoverSaveShowReport=Jelentés mentése és mutatása...
+RecoverBeginRecover=&Kijavítás
+RecoverClose=&Bezárás
+
+RecoverOriginFile=Forrásfájl
+RecoverStatus=Állapot
+RecoverSaveAs=Mentés mint
+
+RecoverFixSuccess=Javítva
+RecoverNoError=Hibátlan
+RecoverFault=HIBA
+
+RecoverFixFileNum= Javított fájlok:
+RecoverNoErrorFileNum=hibátlan fájlok:
+RecoverFaultFileNum= HIBÁS fájlok:
+
+RecoverSaveReportTitle=Jelentés mentése
+RecoverReportTextFileType=Szövegfájl (*.txt)
+
+RecoverReportFixNoErrorNotSave=A fenti fájl hibátlan, mentés nem történt.
+RecoverReportFixNoErrorSave=A fenti fájl hibátlan, mentés mint: 
+RecoverReportFixSuccess=A fenti fájl javítva, mentés mint:
+RecoverReportFixFault=A fenti fájl javítása SIKERTELEN!
+
+TransmitOverwritePrompt=A megadott fájl már létezik. Felülírja?
+TransmitOverwriteInquireDlgCaption=Felülírás
+
+*** Added 2005.10.27
+FontReplaceTitle=Font replace
+FontReplaceFontNotFount=A betûtípus nem található. 
+FontReplaceAll=Replace all the font not found with this font
+FontReplaceBrowse=Browse...
+FontReplaceSelFont=Selected font: 
+
+AddFolderDlgDWGFiles=DWG fájlok
+AddFolderDlgDXFFiles=DXF fájlok
+AddFolderDlgDWFFiles=DWF fájlok
+
+BatchAllPaperSpace=Teljes papírtér
+
+ExportDlgTrueColors=eredeti színek
+PrintTrueColors=eredeti színek
+
+*** Added 2005.12.22
+FontReplaceReplaceFont=Betûtípusok helyettesítése
+FontReplaceReplaceAllFont=&Hiányzó betûtípusok helyettesítése
+FontReplaceSmallFontFile=&Small font file:
+FontReplaceBigFontFile=&Big font file:
+FontReplaceTTFFont=&TrueType betûtípus:
+FontReplaceOnlyUseTTf=&Kizárólag TrueType betûtípussal
+FontReplaceApply=A&lkalmaz
+
+OpenDwfFileFail=DWF fájl megnyitási hiba!
+
+RecoverFail=A rajzfájl nem javítható!
+
+*** Added 2006.01.06
+BatchConvert=&Csoportos konvertálás
+BatchDWG2Bmp=DWG/DXF -> bmp
+BatchDWG2Jpg=DWG/DXF -> jpeg
+BatchDWG2Gif=DWG/DXF -> gif
+BatchDWG2Pcx=DWG/DXF -> pcx
+BatchDWG2Pdf=DWG/DXF -> pdf
+BatchDWG2Svg=DWG/DXF -> svg
+BatchDWG2Plt=DWG/DXF -> hp-gl/2 plotfájl
+BatchDWG2Eps=DWG/DXF -> eps
+BatchDWG2Cgm=DWG/DXF -> cgm
+BatchDWG2DXF=DWG -> DXF
+BatchDXF2DWG=DXF -> DWG
+BatchVerConvert=Verzióváltás
+
+*** Added 2006.02.17
+PrintPenSetsGroup=Tollvastagságok és színek
+PrintPenWidthUsePenWidth=Nyomtatás színk&észlettel
+PrintPenWidthSet=&Beállítás...
+
+*** Added 2006.04.17 
+PDFExportLayer = &Fóliák megtartása
+PDFExportFinishMsg = A rajzfájlok PDF formátumba való exportálása sikerült.%Meg kívánja nyitni a PDF fájlt?
+
+*** Added 2006.11.30
+PenWidthNewSetsTitle=Input
+ExportPenSetsACADCTBFileName=AutoCAD színkészlet fájl (*.ctb)
+
+*** Added 2007.01.20
+PDFExportZoomExtScale=&Arány:
+BatchZoomExtScale=&Arány:
+BatchSetPenWidth=Színkészlet &beállítás...
+
+*** Added 2007.02.07
+PngType=PNG fájl (*.png)
+TifType=TIFF fájl (*.tif)
+TgaType=TGA fájl (*.tga)
+WmfType=Windows metafájl (*.wmf)
+
+*** Added 2007.03.30
+BatchLineBold=&Vastagítás:
+
+*** Added 2007.06.07
+ExportUseLayoutPageSize=Papírtér lapméret használata
+BatchDWG2Tiff=DWG/DXF -> tiff
+
+*** Added 2007.08.18
+MinValueOfWidth=Minimum érték
+
+*** Added 2007.08.27
+KnowNoRemind=Tudom, ne emlékeztessen többé!
+Try=Kipróbálom!
+
+*** Added 2008.03.14
+BatchDWG2Wmf=DWG/DXF -> WMF
+WMFFileType=Windows metafájl (*.wmf)
+
+***Added 2008.04.05
+ExportViewportFrame=Nézetablak keret exportálása
+
+***Added 2008.04.29
+3dHide=Takartvonalak elrejtése:
+Close3DHide=Nem
+Auto3DHide=Automatikusan
+Force3dHide=Mindig
+
+***Added 2008.05.9
+KeepsSameFolder=Mapparendszer megtartása
+
+***Added 2008.07.15
+TransformCompletedAndOpen=A konvertálás véget ért. A megnyitáshoz kattintson a fájlokra!
+EnableLineweight=Vastag vonalak
+
+***Added 2008.08.27
+BatchByScaleCaption=Csoportos méretarányos konvertálás
+BatchScale=Arány:
+BatchErrScale=A méretarány értéke hibás!
+BatchFinish=A konvertálás véget ért.
+Watermark=Vízjel megadása...
+OneDrawingOneFile=Egy PDF rajzfájlonként
+MergeIntoOneFile=Egy több oldalas PDF
+OneFilePerLayout=Egy PDF elrendezésenként
+PDFFileInfo=PDF info...
+ExportMargin=Margó (inch):
+
+***Watermark dialog box string(s)
+WM_MainCaption=Vízjelek
+WM_LIST=Vízjel objektumok
+WM_CANCEL=&Mégsem
+WM_OK=&OK
+WM_HELP=Súgó
+WM_PRESIZE=Elõnézet mérete:
+WM_ADD=Új
+WM_MOD=Módosítás
+WM_DEL=Törlés
+WM_Center=Középen
+WM_LeftTop=Bal-felül
+WM_Left=Balra
+WM_Top=Felül
+WM_RightTop=Jobb-felül
+WM_Right=Jobbra
+WM_LeftBottom=Bal-alul
+WM_RightBottom=Jobb-alul
+WM_Bottom=Alul
+WM_Tile=Mindenhol
+WM_IFDEL=Biztosan törli a vízjelet?
+WM_ERRSIZE=A lapméret értéke hibás!
+WM_ERRNAME=A vízjelet mindenképpen el kell nevezni!
+WM_TIME=Idõ
+WM_DATE=Dátum
+WM_FileName=Fájlnév
+WM_LayoutName=Elrendezés neve
+WM_Caption=Vízjel megjelenítése
+WM_Group=Vízjel információk
+WM_Color=Szín:
+WM_InsObject=Adatmezõ beszúrása
+WM_CHECK=Ellenõrzés
+WM_FILL=Kitöltött
+WM_LOC=Pozíció:
+WM_HEIGHT=Betûmagasság:
+WM_MARGIN=Margó:
+WM_ANGLE=Szög:
+WM_SAMESCALE=Méretarány független a lapmérettõl
+
+***Added 2008.10.18
+BatchByUser=Terület megadásával
+HintLayoutChanged=Ha folytatja, a korábban az exportáláshoz beállított\nelrendezés- és fóliabeállítások nem lesznek figyelembe véve.\n\nFolytatja?
+LayoutLayer=Fóliák kiválasztása
+ExportBookMark=Könyjelzõket is
+LL_OK=&OK
+LL_CANCEL=&Mégsem
+LL_TITLE=Válassza ki az exportálni kívánt elrendezéseket és fóliákat
+LL_DrawingList=Rajzfájlok listája
+LL_LayoutGroup=Rajz információk
+LL_LayerBtn=Fóliák kiválasztása...
+LL_LayoutList=Elrendezések listája:
+LL_Bookmark=Könyvjelzõ
+LL_Filename=Fájl
+LL_LayoutName=Elrendezés neve
+LL_Hint=A megfelelõ fóliák vizuális kiválasztásához kattintson az alábbi gombra.
+VL_Title=Válassza ki az exportálni kívánt fóliákat
+VL_Apply=Alkalmaz
+VL_View=A bal oldali gombokkal tudja a képet eltolni és nagyítani.
+
+Added 2008.11.26
+OPENFAIURE_CONTINUE=Megnyitási hiba: %%s\n\nKívánja folytatni?
+
+Added 2009.2.23
+WM_PREVIEW=Elõnézet
+None=Semmi
+ConvertingLayout=Elrendezés konvertálása
+***End

@@ -1,0 +1,1012 @@
+Korean
+
+//The char "%" is regard as return. You can write "%%" to input "%" symbol.
+//AcmeCADConverter language package
+
+Translator=한국인
+AboutTranslatorLabel=번 역:
+
+OkCaption=확 인
+CancelCaption=취 소
+
+BuyNowCaption= 지금 구입
+
+SaveError=저장 실패!
+SaveSuccess=저장 성공!
+
+OpenFileFail=파일 열기에 실패하였음. 재시도하시겠읍니까?
+//Open file failure! Do you want to recover it?
+ImportFileFail=파일 불러오기 실패!
+//Import file failure!
+
+clBlack=검정
+clRed=빨강
+clYellow=노랑
+clGreen=녹색
+clAqua=옥색
+clBlue=청색
+clFuchsia=선홍
+clWhite=백색
+clDarkGray=회색
+clColor=색번호
+
+JpegHigh=높음
+JpegLow=낮음
+JpegQuality=Jpeg 품질
+SaveBmpWidth=넓이
+SaveBmpHeight=높이
+SaveBmpIncludeMask=마스크 저장
+SaveBmpWinSize=화면 크기
+SaveBmpLockSize=비율 고정
+
+NoMemory=메모리가 부족함!
+NoDefaultPrinter=기본 프린터가 설정되어있지 않았읍니다.!%인쇄할 수 없읍니다.!
+RegenDrawing=도면 갱신중...
+TransferPrinter=프린터로 보내는 중...
+TransferRaster=그림파일로 보내는 중...
+
+ChildOpeningFile=파일 열기
+RedrawingMsg=다시 그리는 중...
+
+MainMenuFile=파 일
+ChildMenuView=보 기
+ChildMenuFormat=형 식
+
+ChildMenuSave=저 장
+ChildMenuSaveHint=파일 저장하기
+
+ChildMenuClose=닫 기
+ChildMenuCloseHint=열린 파일 닫기
+
+ChildMenuSaveBmp=그림파일로 저장
+ChildMenuSaveBmpHint=그림파일 형식으로 저장하기
+
+ChildMenuSaveLayoutBmp=레이아웃 저장
+ChildMenuSaveLayoutBmpHint=현재의 레이아웃을 그림파일로 저장하기
+
+ChildMenuPrint=인 쇄
+ChildMenuPrintHint=도면을 프로터, 프린터 또는 파일로 보내기
+
+ChildMenuLayer=도면층
+ChildMenuLayerHint=도면층 설정하기
+
+ChildMenuLinetype=선 종류
+ChildMenuLinetypeHint=선 종류를 선택하기
+
+ChildMenuPtStyle=포인트 종류
+ChildMenuPtStyleHint=포인트의 크기와 종류 선택하기
+
+ChildMenuViewPoint=관측점 선택
+ChildMenuViewPointHint=3차원 관측점 방향 선택하기
+
+ChildMenuViewFront=전 면
+ChildMenuViewFrontHint=관측점을 전면에 설정하기
+
+ChildMenuViewBack=후 면
+ChildMenuViewBackHint=관측점을 후면에 설정하기
+
+ChildMenuLeft=좌측면
+ChildMenuLeftHint=관측점을 좌측면에 설정하기
+
+ChildMenuRight=우측면
+ChildMenuRightHint=관측점을 우측면에 설정하기
+
+ChildMenuTop=윗 면
+ChildMenuTopHint=관측점을 윗면에 설정하기
+
+ChildMenuBottom=아래면
+ChildMenuBottomHint=관측점을 아래면에 설정하기
+
+ChildMenuSWIso=SW 방향
+ChildMenuSWIsoHint=관측점을 SouthWest면에 설정하기
+
+ChildMenuSEIso=SE 방향
+ChildMenuSEIsoHint=관측점을 SouthEast면에 설정하기
+
+ChildMenuNEIso=NE 방향
+ChildMenuNEIsoHint=관측점을 NorthEast면에 설정하기
+
+ChildMenuNWIso=NW 방향
+ChildMenuNWIsoHint=관측점을 NorthWest면에 설정하기
+
+ChildMenuZoomExt=도면 크기
+ChildMenuZoomExtHint=도면 크기에 맞춤
+
+ChildMenuZoomIn=확 대
+ChildMenuZoomInHint=화면 확대하기
+
+ChildMenuZoomOut=축 소
+ChildMenuZoomOutHint=화면 축소하기
+
+ChildMenuZoomWin=일부 확대
+ChildMenuZoomWinHint=지정구역 확대하기
+
+ChildMenuRegen=화면 갱신
+ChildMenuRegenHint=화면 갱신하기
+
+ChildMenuZoomPre=이전 상태로
+ChildMenuZoomPreHint=이전 상태로 되돌리기
+
+ChildMenuPan=이 동
+ChildMenuPanHint=손 모양으로 이동 시키기
+
+ChildMenuPanLeft=좌로 
+ChildMenuPanLeftHint=화면을 좌측으로 이동하기
+
+ChildMenuPanRight=우로
+ChildMenuPanRightHint=화면을 우측으로 이동하기
+
+ChildMenuPanUp=위로
+ChildMenuPanUpHint=화면을 위로 이동하기
+
+ChildMenuPanDown=아래로
+ChildMenuPanDownHint=화면을 아래로 이동하기
+
+ChildMenu256Colors=칼라색
+ChildMenu256ColorsHint=256가지 칼라색상으로
+
+ChildMenuGrayColors=회 색
+ChildMenuGrayColorsHint=회색으로 보이기
+
+ChildMenuBWColor=흑 백
+ChildMenuBWColorHint=흑백으로 보이기
+
+ChildMenu3DView=다이나믹 3D 보기
+ChildMenu3DViewHint=다이나믹 투시로 3차원 보기
+
+ChildMenuExit3DView=종 료
+
+ChildMenuUcsIcon=Ucs 아이콘
+
+ChildMenuUIOn=좌표계 보이기
+ChildMenuUIOnHint=사용자 좌표계 아이콘 보이기
+
+ChildMenuUIOR=좌표계 원래 상태
+ChildMenuUIORHint=사용자 좌표계 아이콘을 본래 상태대로 유지하기
+//Keeps the UCS icon near the UCS origin if possible
+
+ChildMenuColors=도면색상
+ChildMenu3DViews=3D 보기 설정
+
+InitError=초기화 할 수 없읍니다.
+
+OpenDWGDlgPreviewAll=모두 미리보기
+
+MainRegSuccess=성공적으로 등록되었읍니다!
+MainRegFail=들록에 실패하였읍니다!\n추후에 등록바랍니다!\n\n------------------------------------------------------------------------\nNote: The new CADConverter (ver 5.5-) have changed the registration code. If you have purchased old version of CADConverter, please e-mail your order information to us, and we will resend the new registration code to you after we confirm your order informations. \n\nThe following informations is the valid: \n\nOrderID(purchased through Qwerks), Ref.No.(purchased through ShareIt), \nEmail: \nAddress:\nPhone number:\nYour name or company name:\nOld registration code.
+MainNotReg=추후에 등록 바랍니다!
+
+CreateAssociationSuccessfully=관련 파일을 성공적으로 생성하였읍니다!
+RestoreAssociationSuccessfully=종전의 관련 파일로 대채되었읍니다!
+//Restore the old file association successfully!
+
+CannotImport=프러그-인이 없어서 다른 형식의 파일을 읽어올 수 없읍니다.!
+
+MainMenuFile=파 일
+MainMenuOption=설 정
+MainMenuWindow=창
+MainMenuHelp=도움말
+
+MainMenuExit=종 료
+MainMenuExitHint=CADConverter를 종료하기
+
+MainMenuAbout=제품 정보
+MainMenuAboutHint=CADConverter 제품 정보
+
+MainMenuReg=등록하기
+MainMenuRegHint=제품 등록번호 등록하기 
+
+MainMenuBuy=지금 구입
+MainMenuBuyHint=제품을 지금 구입하기
+
+MainMenuOpen=열 기
+MainMenuOpenHint=기존 파일 열기
+
+MainMenuBatch=일괄 변환
+MainMenuBatchHint=파일 형식을 일괄 변환 하기
+
+MainMenuImport=불러오기
+MainMenuImportHint=다른 형식의 파일을 불러오기
+
+MainMenuSetBkColor=배경색
+MainMenuSetBkColorHint=배경색 설정하기
+
+MainMenuSetShxDir=경로 설정
+MainMenuSetShxDirHint=shx font 파일, xref block 파일, 그림파일 등의 경로를 등록하기
+
+MainMenuCreateAssociated=파일로 만들기
+MainMenuCreateAssociatedHint=DWG/ DXF 파일로 새로 만들기
+
+MainMenuRestoreAssociated=파일로 저장
+MainMenuRestoreAssociatedHint=DWG/ DXF 파일로 저장하기
+
+MainMenuLanguage=언 어
+MainMenuLanguageHint=언어 선택하기
+
+MainMenuVerTile=수직 배열
+MainMenuVerTileHint=창을 수직으로 배열하기
+
+MainMenuHorTile=수평 배열
+
+MainMenuCascade=겹치게 배열
+
+BatchCaption= 일괄 변환하기
+BatchUnregMsg=미등록 제품입니다!%이 기능을 사용할 수 없읍니다!
+BatchTargetFormat=변환 파일 형식
+
+BatchWidth=넓이
+BatchHeight=높이
+JpegQuality=Jpeg 품질
+JpegLow=낮음
+JpegHigh=높음
+BatchColor=도면 색상
+BatchZoomExt=도면크기에 맞춤
+BatchMask=마스크 포함
+BatchAddFiles=파일 추가
+BatchDelFiles=파일 제거
+BatchClearFiles=파일 전체 제거
+BatchStart=시 작
+BatchClose=닫 기
+
+TransformDlgCaption= 변환하기
+TransformStop=중 지
+TransformOpenFile=파일 열기
+TransformUserBreak=일시 중지!
+TransformOverwriteFile=기존파일에 덮어쓰기 :
+TransformComfirm=확 인
+TransformSaveFile=파일 저장
+TransformFile=파일 변환
+TransformCompleted=변환 완료되었음!
+TransformClose=닫 기
+TransformNoDetailInfo=상세 정보 없음 <<
+TransformDetailInfo=상세 정보 >>
+TransformTotalProgress=전체 진행상태
+
+AboutCaption= 제품 정보 : 
+AboutWebsite=인터넷 : 
+AboutSupportEMail=e_mail : 
+AboutDownloadnewversion=최신판 내려받기
+
+InputRegDlgCaption= 등록하기
+InputRegRegister=등 록
+InputRegCode=등록 번호:
+
+SelColorDlgCaption= 색상 선택
+SelColorStandardColors=표준 색상
+SelColorAllColors=전체 색상표
+SelColorGrayColors=회색표
+SelColorSelColor=선택 색상
+
+ShxDirDlgCaption= SHX 글꼴 경로 설정
+//Set searching directories
+ShxDirAdd=추 가
+ShxDirDelete=삭 제
+ShxDirDelInvalid=정 리 하 기
+//Purge
+
+LayerDlgCaption= 도면층 및 선 종류 등록정보
+
+LayerLayerSheet=도면층
+LayerLtypeSheet=선 종류
+
+LayerListViewName=이름
+LayerListViewOn=보이기
+LayerListViewColor=색 상
+LayerListViewLtype=선 종류
+
+LayerDetail=내 용
+LayerName=이 름
+LayerLtype=선 종류
+LayerColor=색 상
+LayerOn=보이기
+//&On
+
+LayerLtypeListViewLtype=선 종류
+LayerLtypeListViewDescription=설 명
+LayerLoadLtype=불러오기
+//&Load...
+LayerLtScale=전역 선종류 축적
+//&Globe linetype scale
+LayerPsLtScale=용지규격 단위를 축적단위로 사용
+//&Use paper space units for scale
+
+LtypeLoadDlgCaption= 선 종류 파일 불러오기
+//Load or reload linetypes
+
+LtypeLoadFile=파 일
+LtypeLoadAvailableLtype=가능한 선 종류
+
+LtypeLoadListViewLtype=선 종류
+LtypeLoadListViewDesciption=설 명
+
+ReloadLtypeCaption= 선 종류 다시 불러오기
+ReloadLtypeYes=예
+ReloadLtypeYestoAll=전부 예
+ReloadLtypeNo=아니오
+ReloadLtypeNotoAll=전부 아니오
+
+ViewAngleDlgCaption= 관측점 설정
+//Viewpoint Presets
+
+ViewAngleSetAngle=관측 각도 설정
+//Set Viewing Angles
+ViewAngleSetPlan=평면 보기
+//Set to Plan &View
+
+ViewAngleXAxis=X 축 각도
+//From X Axis
+ViewAngleXYAngle=XY 평면각도
+//(Y 축 각도)
+//XY Plane
+
+PtTypeDlgCaption= 포인트 종류
+//Point style
+PtTypeUnits=단 위
+
+PtTypeSize=포인트 크기
+//Point &Size
+PtTypeRelative=화면 크기에 맞춤
+//Set Size &Relative to Screen
+PtTypeAbsolute=실제 크기에 맞춤
+//Set Size in &Absolute Units
+
+PrintDlgCaption= 인쇄 설정 항목
+//Print Configuration Dialog
+
+PrintUnitmm=인쇄 단위 (mm)
+//Print mm
+PrintUnitInch=인쇄 단위 (Inch)
+//Print Inches
+PrintPaperSize=인쇄 용지 크기 : 
+PrintPaperSizeBy= x 
+//by
+
+PrintDevice=프린터 설정
+//&Device Set ...
+PrintPenWidth=인쇄 선 굵기 설정
+//Pen Widt&h Set ...
+
+PrintGroupArea=인쇄 범위
+PrintDisplay=화면 내용
+//Dis&play
+PrintWindow=지정 구역
+PrintLayout=레이아웃
+//&Current Layout
+PrintWinPick=별도지정 구역
+//Wi&ndow Pick<
+
+PrintGroupRaster=그림으로 출력
+//Raster Export
+PrintRasterExport=그림 파일로 출력
+//Export Raster &File
+PrintRasterFile=파일 이름
+
+PrintColor=인쇄 색상
+PrintBlackColor=흑색
+PrintGrayColor=회색
+Print256Colors=칼라색
+
+PrintGroupPapaSize=용지 크기
+PrintInch=&Inch
+Printmm=&mm
+
+PrintGroupScale=축적, 회전 및 원본
+//Scale, Rotation and Origin
+PrintRotate=회전 각도
+PrintOffsetX=Offset &X
+PrintOffsetY=&Y
+PrintCenter=가운데 인쇄
+//C&enter print
+PrintDrawingUnit=도면 단위
+//Drawing Units
+PrintScaleFit=인쇄용지에 맞춤
+//Scaled &to Fit
+
+PrintPreview=미리보기
+PrintPrint=인쇄하기
+
+PreviewDlgCaption= 인쇄 미리보기  [종료는 ESC키 또는 Enter키,  Popup메뉴는 마우스 오른쪽 버튼]
+//Print Preview - Press ESC  or Enter to exit, Right click mouse button to popup menu
+PreviewPan=이 동 시키기
+PreviewZoom=확 대 보 기
+PreviewZoomFit=정 상 보 기
+PreviewExit= 닫    기
+
+InvalidNumberMsg=없는 번호입니다!
+
+PenWidthListViewColor=펜 색상표
+PenWidthListViewWidth=펜 두께
+
+PenWidthColor=펜 색상
+PenWidthWidth=펜 두께
+
+PenWidthUnit=단위
+PenWidthInch=&Inch
+PenWidthmm=&mm
+
+SetLanDlgCaption= 언어 설정
+SetLanLanList=언어 종류
+SetLanCurLan=현재 설정 언어
+
+**** Added 2002.08.17
+FileNotFount=파일이 없읍니다. :
+
+LayoutModal=Modal
+LayoutPaper=용 지
+
+ChildSaveDlgTitle=도면을 파일로 저장
+//Save drawing file
+ChildSavingFile=파일 저장
+//Saving file
+ChildNoDrawing=파일 없음
+//No Drawing file
+
+SaveBmpTitle=그림 파일로 저장
+SaveBmpFileSize=파일 크기:
+
+SaveLayoutBmpTitle=레이아웃을 파일로 저장
+
+BatchOpenDwgDlgTitle=AutoCAD 파일 열기
+
+UnregText=비 등록판
+
+UnregPrompt=비 등록판 입니다!%저장화면에"AcmeCADConverter"문구가 표시됩니다.%등록하시면 이 표시가 없어집니다.
+//Unregister version!%Your bitmap will have "AcmeCADConverter" text!%The limit will be canceled only when you have registered.
+UnregPrintPrompt=비 등록판 입니다!%인쇄화면에"AcmeCADConverter"문구가 인쇄됩니다.%등록하시면 이 표시가 없어집니다.
+//Unregister version!%Acme CADConverter will print "Acme CADConverter" text!%The limit will be canceled only when you have registered.
+
+BatchBWColor=흑백
+BatchGrayColor=회색
+Batch256Color=칼라색
+
+**** Added 2002.08.23
+NonePreviewPicture=(None)
+
+AllDrawingType=모든 파일형식(*.dwg,*.dxf)
+DrawingType=DWG 파일형식(*.dwg)
+DxfType=DXF 파일형식(*.dxf)
+
+BmpType=Bitmap 파일형식(*.bmp)
+JpegType=JPEG 파일형식(*.jpg)
+
+PrintMsgDlgCaption= 인쇄하기
+PrintExportToRasterTitle=그림파일 인쇄
+
+MainMenuIndex=도움말 내용
+MainMenuIndexHint=도움말 보기
+
+MainMenuHorTileHint=창을 수평으로 배열함
+
+MainMenuCascadeHint=창을 겹치게 보이도록 배열함
+
+**** Added 2002.08.26
+SelectShxDirDlgCap=SHX 글꼴 경로 선택
+//Select searching directory
+
+**** Added 2002.09.02
+ChildMenuExport=내보내기
+ChildMenuExportHint=다른 벡터파일 형식으로
+//Export to other vector format file
+NotSupportVecFormat=지원하지 않는 벡터파일 형식입니다!
+//Not support the vector format!
+
+ExportDlgTitle=내보내기
+ExportDlgWidth=넓 이
+ExportDlgHeight=높 이
+ExportDlgColors=도면 색
+ExportDlgLockSize=비율 유지
+//Constrain proportion
+ExportDlgZoomExt=도면 크기에 맞춤
+//Zoom extent
+ExportDlgBlack=흑 백
+ExportDlgGray=회 색
+ExportDlg256Colors=칼라색
+
+SVGType=Scalable vector graphics(*.svg)
+HPGLType=HP-GL/2(*.plt)
+
+UnregExportPrompt=비 등록판 입니다!%저장파일에"DemoCADConverter"문구가 표시됩니다.%등록하시면 이 표시가 없어집니다.
+//Unregister version!%Your vector file will have "DemoCADConverter" text!%The limit will be canceled only when you have registered.
+SaveBmpZoomExt=도면 크기에 맞춤
+
+BatchSameFile=동일한 파일 처리 옵션
+//Same files option
+BatchOverwrite=대화상자 없이 덮어쓰기
+//Overwrite without prompt
+BatchPrompt=대화상자 보이기
+BatchGenerate=파일 이름 자동 생성
+BatchTargetDir=저장할 폴더 위치
+//Target f&older
+BatchAddFolder=폴더 내 도면파일 전체
+//Add all drawing files of &folder
+BatchTargetDirDlgCap=저장할 경로 선택
+//Select target directory
+BatchOption=옵 션
+
+AddFloderDlgCap=추가할 폴더 선택
+AddFolderDlgIncludeSub=하위 폴더 포함
+AddFolderDlgFileTypeGrp=추가할 파일형식
+//Adding file type
+AddFolderDlgAddDWG=DWG 파일
+AddFolderDlgAddDXF=DXF 파일
+
+TransformSuccess=변환에 성공하였읍니다!
+//successfully!
+TransformFail=변환에 실패하였읍니다!
+//failure!
+
+ParamError=잘못된 매개변수 입니다!
+//Parameter error!
+
+**** Added 2002.09.09
+OpenShxDlgTitle=AutoCAD shx 파일 선택하기
+CADShxFileType=AutoCAD shx 파일(*.shx)
+
+DwgTypeVer2000=AutoCAD 2000 drawing(*.dwg)
+DwgTypeVer14=AutoCAD R14 drawing(*.dwg)
+DwgTypeVer12=AutoCAD R12 drawing(*.dwg)
+
+DxfTypeVer2000=AutoCAD 2000 dxf(*.dxf)
+DxfTypeVer14=AutoCAD R14 dxf(*.dxf)
+DxfTypeVer12=AutoCAD R12 dxf(*.dxf)
+
+**** Added 2003.01.22
+GifType=Graphics Interchange Format(*.gif)
+MainMenuArrangeIcon=아이콘 정돈
+
+****  Added 2003.01.23
+SaveBmpCurLayout=현재의 레이아웃
+SaveBmpCurDisplay=현재의 화면
+SaveBmpSaveArea=저장할 부분
+
+LtypeLoadSelAll=전부 선택
+LtypeLoadLinetypeText=Linetype file(*.lin)
+
+PenWidthColorVaries=Color varies
+
+AddFolderDlgOnlyDWG=DWG 파일만 추가
+AddFolderDlgOnlyDXF=DXF 파일만 추가
+AddFolderDlgDWGDXF=DWG, DXF 파일 모두
+
+TextFileName=Text file(*.txt)
+
+TransformSaveReport=보고서 저장
+
+ConvertError=변환 오류입니다!
+
+LayerListViewOff=감추기
+
+LayerListViewDuplicateLayer=도면층 이름이 중복되었읍니다! 
+
+MainMenuArrangeIconHint=아이콘들을 화면 아래에 정돈합니다
+
+MainMenuOpenHistory=파일 열기
+
+MainMenuHomePage=DWGTOOL 홈
+MainMenuHomePageHint=DWGTOOL Software 홈페이지에 접속합니다.
+
+MainMenuBrowseProducts=다른 제품 둘러보기
+MainMenuBrowseProductsHint=DWGTOOL Software의 다른 제품을 알아봅니다
+
+ProgressCaption= 진행 상태
+//Progress
+
+ZoomingExt=도면 크기에 맞춤
+//Zooming extent ...
+
+ChildMenuFullScreen=전체 화면
+ChildMenuFullScreenHint=전체화면 상태로 전환합니다
+
+AlloctMemory=메모리 배정
+//Allocating memory...
+SaveRaster=그림 파일로 저장
+//Saving to raster file...
+
+ChildMenuExit3DViewHint=3차원 입체 보기 종료하기
+//Exit 3d dynamic view set
+
+ChildMenuCloseAll=전체 닫기
+ChildMenuCloseAllHint=파일 전체를 닫읍니다.
+
+BuynowDlgDetail=세부항목
+BuynowDlgTrial=시험판을 계속 사용하도록 해주십시오.
+AgentDlgCaption=구입처
+//Agent
+InputRegAgent=구입처 세부내용
+//&Agent detail...
+
+**** Added 2003.02.24
+PrintCopies=인쇄 매수
+//Print &Copies
+
+TransformCreateDirFail=저장될 폴더가 존재하지 않고 새로 만들 수 없읍니다!
+//The target directories doesn't exists, and cann't create it!
+
+**** Added 2003.03.01
+ShxDirDlgTitle=SHX 글꼴 파일, XRef Block파일 및 그림파일 경로를 설정하기
+//Set directories of searching shx font file, xref block file, and raster file
+
+**** Added 2003.03.16
+ChildMenuSelObj=&Select entities
+ChildMenuSelObjHint=Select entities by point or window
+
+ChildMenuSetObjProp=&Properties...
+ChildMenuSetObjPropHint=Set properties of selected entites
+
+**** Added 2003.03.27
+ErrDwgTypeMsg=알 림 : DWG파일 형식이지만 파일의 확장자가 DWG가 아닙니다!
+//Note: The file type is DWG, but the file's extension is not "DWG" !
+ErrDxfTypeMsg=알 림 : DXF파일 형식이지만 파일의 확장자가 DXF가 아닙니다!
+//Note: The file type is DXF, but the file's extension is not "DXF" !
+
+**** Added 2003.07.02
+ChildMenuUnits=사용 단위
+UnitsDlgCaption= 사용 단위 설정
+UnitsDlgLinearUnitsGroup=선형 단위 
+//Linear Units
+UnitsDlgArchitectural=건축 (피트 및 분수식 인치)
+UnitsDlgDecimal=십진 (미터식)
+UnitsDlgEngineering=공학 (피트 및 십진법 인치)
+UnitsDlgFractional=분수 (분수식 인치)
+//&Fractional
+UnitsDlgScientific=과학 (지수함수)
+UnitsDlgPrecision=표시 정밀도
+
+SaveBmpScale=축 적
+
+**** Added 2003.07.19
+RotateViewDlgCaption= 회전 각도 설정
+RotateViewDlgAngleLab=회전 각도
+ChildMenuRotateView=회전 시키기
+//R&otate view...
+ChildMenuRotateViewHint=설정한 각도로 도면을 회전 시킨다
+
+**** Added 2003.08.24
+ChildMenuPDFExport=PDF 파일 만들기
+ChildMenuPDFExportHint=하나 이상의 ACAD 파일을 하나의 PDF 파일로 만듭니다
+//Convert one or more ACAD files into one PDF files
+PDFSelDlgTitle=PDF 파일 선택
+//Select PDF file
+PDFFileType=Adobe PDF 파일(*.pdf)
+MainMenuExportSubMenu=내보내기
+
+**** Added 2003.08.31
+PDFExportCaption= PDF 파일로 변환하기
+PDFExportAddFiles=파일 추가
+PDFExportRemoveFiles=파일 삭제
+PDFExportClearFiles=파일 전체 삭제
+PDFExportAddFolder=폴더 내의 모든 파일 추가
+//Add all drawing files of &folder
+PDFExportUp=위 로
+PDFExportDown=아래로
+PDFFileListBookMark=북 마크
+//Book Mark
+PDFFileListFile=파 일
+PDFExportPageWidth=페이지 넓이
+PDFExportPageHeight=페이지 높이
+PDFExportPageMargin=페이지 여백
+PDFExportUnits=단 위
+PDFExportInch=Inch
+PDFExportmm=mm
+PDFExportColor=색 상
+PDFExportZoomExt=도면 크기에 자동맞춤
+PDFExportPDFFile=저장할 PDF파일
+PDFExportStart=시 작
+PDFExportClose=닫 기
+
+PDFInfoDlgCaption= PDF 파일 정보 입력
+PDFInfoDlgTitle=제 목
+PDFInfoDlgAuthor=작성자
+PDFInfoDlgSubject=주 제
+PDFInfoDlgKeyWords=키 워드
+
+**** Added 2004.07.24
+PWDlgTitle=암호 입력
+PWDlgLabel=도면의 암호를 입력하십시오:
+//Enter PassWord for the drawing:
+
+AllDrawingType=All drawing type(*.dwg,*.dxf,*.dwt,*.dwf)
+DwtType=drawing template file(*.dwt)
+DwfType=DWF type(*.dwf)
+
+*** Updated and Added 2004.09.08
+SaveBmpInputScale=비 율
+//Sca&le
+LineWidth=선 두께
+
+UnregSaveDWF=비 등록판 입니다!%DWF 파일로 저장할 수 없읍니다.%등록하시면 이 제한사항이 없어집니다.
+//This is a unregister version!%Can't save DWF file to drawing file!%The limit will be canceled only when you have registered.
+
+*** Updated and Added 2005.01.03
+PenWidthListViewDestColor=적용 색상표
+//Destination Color Index
+PenWidthDestColor=적용 색상
+PenWidthSets=색상 세트
+PenWidthSetsNew=신 규
+PenWidthSetsDel=삭 제
+PenWidthSetsWarining=하나 이상의 세트가 있어야 합니다. %이 세트를 삭제할 수 없읍니다!
+//there must be at least one sets!%Can't delete this sets!
+PenWidthNewSetsPrompt=신규 색상 세트
+PenWidthSetsInquire=이 세트를 삭제하겠읍니까?
+//Are you sure to delete this sets?
+
+MainMenuPntColorSets=펜 세트
+//Print &Pens
+MainMenuPntColorSetsHint= 펜 세트의 색상과 두께를 설정합니다.
+//Set the widths and colors of print pens
+
+ExportDlgUseUnits=단 위
+ExportDlgPixel=Pixel
+ExportDlgInch=Inch
+ExportDlgmm=mm
+
+BatchUnits=단 위 
+
+*** Updated and Added 2005.01.08
+PenWidthDefault=초기화
+PenWidthImport=불러오기
+PenWidthExport=내보내기
+
+ExportDlgUsePrintColor=펜 세트설정 사용하기
+BatchUsePintColorSet=펜 세트설정 사용하기
+//Use  print pen sets
+
+PenWidthDlgCaption=펜 세트 설정
+*** Updated and Added 2005.01.09
+PenWidthSavePrmpt=펜 세트가 변경되었읍니다. 저장하겠읍니까?
+//The pen sets have been modified, do you wanto to save it?
+
+ExportPenSetsTitle=펜 세트 내보내기
+ExportPenSetsPrompt=내보내기를 할 펜 세트를 선택하세요.
+ExportPenSetsSelFilePrompt=파일을 선택하세요.
+
+ImportPenSetsTitle=펜 세트 불러오기
+ImportPenSetsPrompt=불러오기를 할 펜 세트를 선택하세요
+ImportPenSetsSelFilePrompt=파일을 선택하세요
+ImportPenSetsOverWritePrompt=펜 세트 "%%s" 가 이미 존재합니다, 덮어쓰기를 할까요?
+ImportPenSetsOverWriteTitle=펜 세트 덮어쓰기 
+
+PenSetsSelectAll=모두 선택
+ExportPenSetsFileName=CADConverter Pen Sets(*.cps)
+ExportPenSetsAllFileName=All files(*.*)
+
+LtypeLoadInquireText=선 종류  "%%"가 이미 지정되었읍니다. 다시 지정할까요?
+//Linetype "%%s" is already loaded. Reload it?
+
+*** Updated and Added 2005.01.18
+SVGZFileType=Compressed scalable vector graphics(*.svgz)
+CGMFileType=Computer graphics metafile(*.cgm)
+EPSFileType=Encapsulated PostScript(*.eps)
+PcxType=PCX Format(*.pcx)
+
+*** Added 2005.02.25
+PickAreaPrmpt= < 지정구역 : 확인- Enter키, 취소- ESC 키 >
+//<Pick window: press Enter key to confirm, press ESC key to cancel>
+PickWindow=별도구역 지정
+//Pick window <
+SaveBmpPickWindow=별도구역 지정
+//Pick window
+SaveWindowPrompt=경 고: 저장하기 전에 저장할 구역을 지정하십시오.
+//Warning: You should pick window before you save to file.
+InvalidPickWinPrompt=적합한 구역이 아닙니다! 다시 구역을 지정해 주십시오!
+//Invalid window! Please pick again!
+
+*** Added 2005.02.28
+LayerSelAll= 전부 선택
+LayerSelInverse=반대로
+//&Inverse
+
+*** Added 2005.03.25
+BatchConvertLayout=변환할 레이아웃
+//Convert layout
+BatchCurrentLayout=현재의 레이아웃
+BatchModelSpace=Model 범위만
+
+*** Added 2005.03.30
+BatchAllLayouts=레이아웃 전부
+
+*** Added 2005.06.10
+ExportDlgCurDisplay=현재 화면
+ExportDlgZoomExt=도면 크기
+ExportDlgPickWindow=지정 구역
+ExportDlgPickWindowBtn=지정구역 정하기
+ExportDlgExportArea=내보내기 범위
+
+*** Added 2005.08.26
+ExportDlgPageSize=페이지 규격
+PDFExportLayout=레이아웃
+PDFExportPageSize=페이지 규격
+PDFExportPDFFileInfo=파일 정보 입력
+//PDF File &Info
+PDFExportPageSize=페이지 규격
+BatchConvertLayout=변환할 레이아웃
+SaveBmpZoomExt=도면 크기에 맞춤
+
+ChildPrintToFileMsg = 성공적으로 그림파일을 완성하였읍니다.
+//Print to the raster file successfully
+
+*** Added 2005.09.10
+ChildMenuRecover=손상 도면 복구
+//&Recover...
+ChildMenueTransmit=전송 파일 패키지
+//eTra&nsmit...
+MainMenuFileRecover=손상된 도면을 복구하기
+MainMenuFileeTransmit=전송할 도면 및 관련 파일 세트 만들기
+//Creates a transmittal set of a drawing and related files
+
+UnregSaveRecoverFile=비 등록판 입니다!%첫번째 파일만 복구할 수 있읍니다.%등록하시면 이 제한사항이 없어집니다.
+//This is a unregister version!%Only the first rawing file will be recovered!%The limit will be canceled only when you have registered.
+
+DwgTypeVer2004=AutoCAD 2004 drawing(*.dwg)
+DxfTypeVer2004=AutoCAD 2004 dxf(*.dxf)
+
+OnlyDrawingType=All drawing files(*.dwg,*.dxf,*.dwt)
+Allfiles=모든 파일(*.*)
+
+*** Added 2005.09.16
+TransmitDlgCaption= 전송 파일 패키지 만들기
+//Create transmittal package
+
+TransmitListFile=파 일
+TransmitListPath=경 로
+TransmitListSize=크 기
+
+TransmitPackFolder=폴더 내에 묶기
+//Pack in folder
+TransmitPackZIP=ZIP 파일에 묶기
+//Pack in ZIP file
+TransmitPackPwZIP=암호 ZIP 파일에 묶기
+//Pack in password ZIP
+TransmitAddDwg=도면파일 추가
+TransmitAddFolder=폴더 내 모든 도면파일 추가
+TransmitRemoveDwg=도면파일 제거
+TransmitClearDwg=새로작성
+TransmitAddFiles=파일 추가
+TransmitChkSel=선택파일 표시
+TransmitUnchkSel=선택파일 표시 취소
+TransmitChkAll=전부 선택
+TransmitUnchkAll=전부 선택 취소
+TransmitCreatePackage=패키지 만들기
+TransmitClose=닫 기
+
+TransmitAddFileTitle=추가할 파일
+TransmitSelDestFolder=선택할 폴더
+TransmitDlgInputZipFile=ZIP파일 이름
+//Input zip file name
+Zipfile=ZIP file(*.zip)
+UnregTransmitMsg=비 등록판 입니다!%한 파일만 추가할 수 있읍니다.%등록하시면 이 제한사항이 없어집니다.
+//This is a unregistered version!%You can only add one drawing file!%The limit will be canceled only when you have registered.
+
+TransmitCreateFolder=해당 폴더가 존재하지 않읍니다. 새로 만들겠읍니까?
+//The destination folder does not exist, do you want to create it?
+
+InputZipPassword=아래의 ZIP 파일에 사용할 암호 입력
+
+TransmitTotalFiles=전체 파일:
+//Total files:
+TransmitPackFiles=묶음 파일:
+TransmitPackFileSize=묶음파일 크기:
+
+GetDependencyTotalProgress=Total progress
+
+*** Added 2005.09.17
+InputPasswordError=암호가 일치하지 않읍니다. 다시 입력하십시오
+PassWordDlgReInput=암호 재입력
+PassWordDlgShowPassword=암호 글자 보이기
+
+PackInFolderSuccess=다음 폴더에 패키지 파일이 완성되었읍니다.
+//Pack in the following folder successfully:
+PackInZIPSuccess=다음 ZIP 파일에 패키지 파일이 완성되었읍니다.
+//Pack in the following ZIP file successfully:
+PackInZIPFailure=다음 암호 ZIP 파일에 패키지 파일이 완성되었읍니다.
+//Pack in the following ZIP file failurely:
+
+TransmitBytes=Bytes
+PackInFolderCancel=사용자 취소
+//User cancel.
+
+*** Added 2005.09.21
+RecoverDlgCaption= 도면 파일 일괄 복구하기
+RecoverAddDwg=도면 파일 추가
+RecoverAddFolder=폴더 내 도면 파일 추가
+RecoverRemoveDwg=도면 파일 제거
+RecoverClearDwg=새로작성
+//C&lear
+
+RecoverSaveNoErrorFile=손상되지 않은 파일도 저장하기
+//&Save drawing file even if which have no error
+RecoverAppendSuffix= 파일 확장자에 "_Recover" 문구 추가하기
+//Appen&d suffix "_Recover" to the filename when save the recovered file
+RecoverSaveShowReport=저장 후 결과 보기
+RecoverBeginRecover=복구하기
+RecoverClose=닫 기
+
+RecoverOriginFile= 원본 파일
+RecoverStatus=복 구 내 용
+RecoverSaveAs= 복구한 파일
+
+RecoverFixSuccess=수정 완료
+RecoverNoError=손상 없음
+RecoverFault=수정 실패
+
+RecoverFixFileNum= 수정된 파일:
+RecoverNoErrorFileNum= 손상없는 파일:
+RecoverFaultFileNum= 실패한 파일:
+
+RecoverSaveReportTitle=결과 저장
+RecoverReportTextFileType=Text File(*.txt)
+
+RecoverReportFixNoErrorNotSave=위의 도면 파일이 손상되지 않아서 저장하지 않읍니다.
+//There is not any error in the above drawing file, and do not save it.
+
+RecoverReportFixNoErrorSave=위의 도면 파일이 손상되지 않았지만, 아래의 파일로 저장합니다.
+//There is not any error in the above drawing file, but still save it in the below file:
+
+RecoverReportFixSuccess=위의 도면 파일을 수정하였으며, 아래의 파일로 저장합니다.
+//Fix the above file successfully, and save it in the below file:
+
+RecoverReportFixFault=위의 도면 파일을 수정할 수 없읍니다!
+
+TransmitOverwritePrompt=아래의 파일이 이미 존재합니다. 덮어쓰겠읍니까?
+//The below file already exists, do you want to overwrite it?
+
+TransmitOverwriteInquireDlgCaption=덮어쓰기
+
+*** Added 2005.10.27
+FontReplaceTitle=대체 글꼴
+FontReplaceFontNotFount=없는 글꼴: 
+FontReplaceAll=없는 글꼴은 전부 이 글꼴로 대체하기
+//Replace all the font not found with this font
+FontReplaceBrowse=찾아보기
+FontReplaceSelFont=선택 글꼴: 
+
+AddFolderDlgDWGFiles=DWG 파일
+AddFolderDlgDXFFiles=DXF 파일
+AddFolderDlgDWFFiles=DWF 파일
+BatchAllPaperSpace=전부 용지 규격으로
+//All Paper space
+
+ExportDlgTrueColors=칼라색
+PrintTrueColors=칼라색
+
+*** Added 2005.12.22
+FontReplaceReplaceFont=대체 글꼴
+FontReplaceReplaceAllFont=없는 글꼴은 전부 아래의 글꼴로 대체하기
+//&Replace all the fonts that not found with the below fonts
+FontReplaceSmallFontFile=작은 글꼴
+FontReplaceBigFontFile=큰 글꼴
+FontReplaceTTFFont=트루타입 글꼴
+//Windows &TTF font
+FontReplaceOnlyUseTTf=트루타입 글꼴만
+//&Use TTF font only
+FontReplaceApply=적 용
+OpenDwfFileFail=DWF파일 열기에 실패하였읍니다!
+
+RecoverFail=도면 파일을 복구 할수 없읍니다!
+
+*** Added 2006.01.06
+BatchConvert=일괄 변환하기
+//&Batch Convert
+BatchDWG2Bmp=DWG/DXF to Bitmap
+BatchDWG2Jpg=DWG/DXF to Jpeg
+BatchDWG2Gif=DWG/DXF to GIF
+BatchDWG2Pcx=DWG/DXF to PCX
+BatchDWG2Pdf=DWG/DXF to PDF
+BatchDWG2Svg=DWG/DXF to SVG
+BatchDWG2Plt=DWG/DXF to HP-GL/2
+BatchDWG2Eps=DWG/DXF to EPS
+BatchDWG2Cgm=DWG/DXF to CGM
+BatchDWG2DXF=DWG to DXF
+BatchDXF2DWG=DXF to DWG
+BatchVerConvert=버젼 변환시키기
+
+*** Added 2006.02.17
+PrintPenSetsGroup=Pen 세트
+//Pen Sets
+PrintPenWidthUsePenWidth=Pen 세트 적용
+//&Use pen sets
+PrintPenWidthSet=설 정
+//&Set...
+
+
+***End

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="./jquery-1.8.3.min.js"></script>
+</head>
+<body>
+    <div class="item3">eee</div>
+    <script>
+        $('.item3').css({width:'200px',height:'200px',border:'2px solid blue'});
+        var obj= $('.item3').attr("width")
+        console.log(obj);
+        var i = 200;
+        var set = setInterval(function () {
+            i++;
+            obj=i+'px';
+            if(i==400){
+            clearInterval(set);
+        }
+        },20);
+
+        console.log(set)
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+
+    Acme CAD Converter 8.5.2.1392 汉化绿色版
+————————————————
+
+    Acme CAD Converter 是一款强大的 CAD 文件转换器，直接运行 AcmeCADConverterPortable.exe 即可，当前版本 Acme CAD Converter 8.5.2.1392，简体中文界面。   
+    
+    软件汉化：大眼仔~旭(Anan)
+    
+    特色功能 
+    
+　　·可将 CAD 文件中的图层单独输出为单个文件。 
+　　·可将 CAD 文件输出为 BMP/JPG/GIF/PCX/Tiff/WMF 点阵图。 
+　　·可将 CAD 文件输出为 PDF 文件。 
+　　·可将 CAD 文件输出为 SVG/HP-GL-2/EPS/CGM 矢量图。 
+　　·支持 DWG 和 DXF 文件互转。 
+　　·支持 CAD R2-R2011 图形文件间的版本互转，转换版本后可去除教育版打印戳记。 
+　　·可修复受损 CAD 文件。 
+　　·可替换 CAD 文件中的字体。 
+　　·可智能化创建用于 CAD 图形无损传递的文件包。 
+　　·以上操作均可批量进行。 
+　　·还支持常见的查看、打印样式（笔指定）、打印等功能。 
+
+    详细使用说明：http://www.portablesoft.org/acme-cad-converter/
+
+————————————————
+    黯然过客为您绿化、请访问我的博客：http://www.portablesoft.org/
+    绿化有问题？有想要绿化的软件？请联系我：admin@portablesoft.org

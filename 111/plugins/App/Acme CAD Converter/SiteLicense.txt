@@ -1,0 +1,57 @@
+AcmeCADConverter.  Copyright (C) 2002-2013 DWGTOOL Software(DWGTOOL).
+All rights reserved.
+
+SITE LICENSE AGREEMENT
+-------------------------------------------------------------
+You should carefully read the following terms and conditions before using this software.
+Your use of this software indicates your acceptance of this license agreement and warranty.
+
+1. LICENSE GRANT AND TITLE. 
+Subject to the terms herein, DWGTOOL grants to Licensee, and Licensee accepts, a non-exclusive license to use the CADConverter programs, functions, and procedures enumerated below CADConverter on computers that 
+are physically located at the licensed site. Title to the Software shall remain with DWGTOOL.
+
+2. SCOPE OF LICENSE. 
+
+   2.1 Licensee may
+
+     a. Use, or incorporate the Software, in any form, in computer programs that are developed and executed solely at the licensed Site. Incorporated or modified Software, exclusive of the actual modifications,
+        remains the property of DWGTOOL.
+
+     b. Copy the Software for backup purposes, or for distribution within the Site.
+
+     c. Transfer executable, programs incorporating the Software to other computer systems inside of the Site.
+
+   2.2 Licensee may not
+
+     d. Transfer, publish, disclose, display, or otherwise make available the Software in any form outside of the Site, or to other organizations or persons.
+
+     e. Transfer or copy the software to any computer outside of the Site.
+
+     f. Transfer or copy the software to a magnetic or other storage medium in a format not customarily used by Licensee as an ordinary means of backup at the Site.
+
+     g. Resell the registered copies of this software is strictly forbidden.
+
+     h. It is a violation of this agreement to loan, rent, lease, borrow, or transfer the use of registered copies of AcmeCADConverter Software.
+
+3. Getting program updates
+--------------------------------------------
+   You may download AcmeCADConverter from the following sources:
+ 
+      http://www.dwgtool.com
+ 
+4. How to get technical support and contribute feedback
+--------------------------------------------
+   4.1 Technical Support
+     Registered users are entitled to technical support, should the need arise.
+     Please contacts us by email at <support@dwgtool.com>.
+ 
+   4.2 Feedback
+     If you have any comments or concerns about AcmeCADConverter please direct them to <support@dwgtool.com>.
+Your feedback is important to us in order to get an idea of how to make AcmeCADConverter a better product for you.
+     Many of AcmeCADConverter's features and significant portions of AcmeCADConverter's interface have been heavily influenced by 
+comments from users.  So if you have a good idea for an new feature, or a better way of doing something, please drop us an note.
+ 
+4. Contacting DWGTOOL Software
+--------------------------------------------
+   e-mail:   support@dwgtool.com
+      web:   http://www.dwgtool.com

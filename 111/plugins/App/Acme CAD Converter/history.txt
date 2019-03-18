@@ -1,0 +1,284 @@
+Version History
+
+Ver 8.5.1
+[-] Fixed a font bug
+
+Ver 8.5
+[+] Support AutoCAD 2013 format.
+
+Ver 8.2.9
+[-] Fixed a text rendering problem.
+[-] Fixed a SVG export on command line mode.
+
+Ver 8.2.8.1371
+[-] Fixed an OLE entity rendering problem.
+
+Ver 8.2.8
+[+] Supports turning on/off layers options on batch conversion.
+
+Ver 8.2.7
+[+] New plot style options, supports lineweight scale.
+
+Ver 8.2.6
+[-] Fixed a bug on rendering polyline.
+
+Ver 8.2.5
+[+] Supports PDF's security Options.
+
+Ver 8.2.4
+[-] Fixed some bugs on 'export by scale'
+[-] Fixed a bug on rendering OLE entities.
+
+Ver 8.2.3
+[-] Fixed a bug on the '/p 1' parameter works incorrectly on command line mode.
+
+Ver 8.2.2
+[-] Fixed a rendering bug.
+
+Ver 8.2.1
+[+] Supports export DWG/DXF into DWF format(Beta)
+[-] Fixed a few bugs.
+
+Ver 8.2
+[+] Supports AutoCAD R2012 format drawing files now.
+
+Ver 8.1.5
+[-] Fixed a bug when rendering polylines.
+
+Ver 8.1.3
+[-] Fixed a bug when rendering ttf font.
+
+Ver 8.1.2
+[+] Updated to the newest DWGDirect library(Teigha)
+
+Ver 8.1
+[+] Supports the BackColor option when converting the drawing to raster image on batch conversion mode.
+[-] Fixed a few bugs.
+
+Ver 8.01
+[-] Fixed a few bugs.
+
+Ver 8.0
+[+] Supports AutoCAD R2010 format drawing files now.
+[+] Supports Quick mode to improve the graphics display performance of viewer. 
+
+Ver 7.98.4
+[-] fixed a bug when running on command line mode.
+
+Ver 7.98.3
+[+] supports to define the custom page sizes by user.
+[+] A few command line parameters are added (please see the help document)
+
+Ver 7.98.2
+[+] add an new function that allows you separate layers to drawings.
+
+Ver 7.98.1
+[+] supports to set the DPI when batch conversion.
+[+] two new command line parameters are added (/scale and /margin)
+[+] supports to show the fonts or other files that can not be found.
+[+] add an new command line parameter (/f 109) to support per PDF file for per layout.
+
+Ver 7.98
+[+] supports to render in-line PNG/TIFF/TGA images.
+[-] fixed a bug when rendering a large inline raster image.
+[-] fixed a few bugs when exporting "AcDbWipeout" entity to vetor format.
+[-] fixed a reading bug when the 'Model space' in the drawing is not the first layout.
+
+Ver 7.96
+[-] fixed a few bug when rendering toleranc entity.
+[-] fixed a bug when running on command line mode.
+
+Ver 7.95
+[+] Add an new option to allow user to select which Layouts and Layers will be exported.
+[+] In this version user can decide whether enables bookmark when exporting to PDF.
+
+Ver 7.92.3
+[-] Fixed a few bug on pen width sets. 
+
+Ver 7.92
+[+] Supports AutoCAD R2009 format drawing files now.
+[+] Supports user-defined Watermark.
+[+] Supports to export to other vector(PDF,SVG,EPS,HPGL...) format by scale. 
+[-] Fixed a bug that sometimes the pen width sets can not work.
+[-] Fixed a bug that the program always ignore the first file when add a folder to the file list.
+
+Ver 7.91
+[-] Fixed a few bugs.
+
+Ver 7.9
+[+] Supports Hidden line removal, provides 3 ways (None, Automatically and Forcibly).
+[-] Fixed a few bugs.
+
+Ver 7.89
+[+] Supports batch converting DWG to WMF.
+[-] Fixed a bug(rendering a raster image entity).
+[-] Fixed a command line bug.
+[-] Fixed open file dialog bug.  
+
+Ver 7.87
+[+] Added a few new features on command-line mode.
+[-] Fixed a bug that will cause a pen-width error when the program is exportting to other vector format file.
+
+Ver 7.85
+[-] A bug about rendering the OLE entities when converts to PDF has fixed.
+
+Ver 7.80
+[-] Fixed mini bugs
+
+Ver 7.68
+[+] Added a new option that uses layout page size if possible. Now, It can adjust the size of output pages with info of layout automatically.
+[-] fixed mini bugs when exports dwg into other vector format file(pdf,svg,cgm...etc).
+
+Ver 7.65
+[+] The version improves compatibility to read old dwg & dxf files.
+[-] fixed a bug (when searching shx files).
+
+Ver 7.62
+[-] fixed a bug when e-transmit (Only files that are in current folder of the drawing are packed-in!).
+
+Ver 7.61
+[+] Supports AutoCAD R2008 format drawing files now.
+[-] fixed mini bugs when reads dwf.
+
+Ver 7.6
+[-] fixed mini bugs (inline raster image entity).
+
+Ver 7.51
+[+] Add "batch Converter to Tiff" menu.
+
+Ver 7.5
+[+] Can set the width or height to 0 when check the "Auto zoom extents" option. The width or height will be calculated depending on the proportion between width and height.
+
+When the "Auto zoom extents" option is checked, you can zoom the viewport of zoom extents. You may set the "Scale(Zoom ext)" parameter to zoom the viewport in the pdf export and batch process dialog box.
+
+Ver 7.3 
+[+] Supports AutoCAD pen sets (*.ctb).
+
+Ver 7.2
+[-] Some mini bugs fixed.
+
+Ver 7.1
+[-] Some mini bugs fixed.
+
+Ver 7.0
+[+] Supports AutoCAD R2007 format drawing files now.
+
+Ver 6.85
+[+] Can export OLE entity to PDF file.
+
+Ver 6.82
+[+] Supports to convert DWG/DXF files to tif, png, tga files on command line mode.
+
+Ver 6.81
+[-] fixed mini bugs(command line parameters) fixed.
+
+Ver 6.71
+[+] Some mini bugs fixed.
+
+Ver 6.7
+[+] Can export layers of DWG file to the layers of PDF file.
+[-] Fix raster image conversion bug.
+[-] Fix pen width settings bug.
+
+Ver 6.52
+[-] fixed mini bugs(command line parameters) fixed.
+
+Ver 6.51
+[-] Some mini bugs(command line parameters) fixed.
+
+Ver 6.5
+[+] Can use print pen width sets to export drawing file now. :)
+[-] Some mini bugs fixed
+
+Ver 6.2
+[-] fixed crashbug when the new font replacing.
+
+Ver 6.1
+[+] Add "batch Converter" menu.
+[-] fixed bug when the new font replacing settings (only ttf) are not stored.
+
+Ver 6.0
+[+] Supports true color.
+[+] Supports gradient fill.
+[+] Save to WMF,TIFF,PNG,TGA function added.
+[+] Supports replace font files.
+
+Ver 5.75
+[-] Some mini bugs fixed
+
+Ver5.73
+[-] fixed bug when export into vector format.
+
+Ver5.72
+[-] fixed crashbug when save into jpeg format.
+
+Ver 5.7
+[+] Supports eTransmit command like AutoCAD. you can package a set of files for Internet transmission.
+[+] Supports batch recover drawing files. When you have many damaged drawing files, this function will help you.
+[-] Some bugs fixed.
+
+Ver 5.6
+[+] supports WindowXP themes style.
+
+Ver 5.54
+[-] Fix dwg/dxf/dwf conversion bug
+
+Ver 5.53
+[-] Fix dwg/dxf conversion bug
+[+] Can set PDF page size directly
+
+Ver 5.52
+[-] Some mini bugs fixed
+
+Ver 5.51
+[-] Fix a error when CADConverter export all layouts to other vector file
+
+Ver 5.5
+[+] Can pick a window for exporting to other vector format files
+[-] Some bugs fixed.
+
+Ver 5.3
+[+] Supports new command line parameters as follows:
+I. /a Layout Index
+Layout Index is a interger number, the follows is the meanings:
+0  - always convert model space
+1  - convert the 1st layout, 2 - convert the 2nd layout, and so on
+-1 - convert the current layout
+-2 - convert the all layouts
+
+[+] II. /key Registration code
+Sometimes CADConverter can't read the registration code from register table on command line mode, so you can specify the registration code with this parameter.
+
+[+] Can run batch converting function on unregister version for evaluation.
+[-] Some bugs fixed.
+
+Ver 5.2
+[+] Can select only model space or all layouts to convert at batch mode
+[+] Can convert more than one drawing files and/or its all layouts into one pdf file
+
+Ver 5.1
+[+] Can pick a window for converting to raster image
+
+Ver 5.0
+[+] Supports compressed scalable vector graphics file(.svgz)
+[+] Supports computer graphics metafile(*.cgm)
+[+] Supports encapsulated postscript(*.eps)
+
+Ver 4.8
+[+] Can use print pen width sets to export drawing file now.
+[+] Can import and export print pen sets.
+[-] Correct export bugs.
+
+Ver 4.7
+[+] Can create multiple print pen sets, you can set the destination color based on the color of entity now.
+[+] Can set graphy size of export file with "mm" or "inch" units directly now.
+[+] Use the destination color to export to svg and pdf files.
+
+Ver 4.6
+[+] Supports xref block of R2004/2005 format drawing file.
+
+Ver 4.1
+[+] Supports DWF format file.
+
+Ver 4.0
+[+] Supports AutoCAD R2004/2005 format drawing files now.

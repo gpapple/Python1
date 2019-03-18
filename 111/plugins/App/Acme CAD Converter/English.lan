@@ -1,0 +1,1082 @@
+English
+
+//The char "%" is regard as return. You can write "%%" to input "%" symbol.
+//AcmeCADConverter language package
+
+Translator=Happy2010 [English]
+AboutTranslatorLabel=Translator:
+
+OkCaption=Ok
+CancelCaption=Cancel
+
+BuyNowCaption=&Buy now...
+
+SaveError=Save error!
+SaveSuccess=Save successfully!
+
+OpenFileFail=Open file failure! Do you want to recover it?
+ImportFileFail=Import file failure!
+
+clBlack=Black
+clRed=Red
+clYellow=Yellow
+clGreen=green
+clAqua=Aqua
+clBlue=Blue
+clFuchsia=Fuchsia
+clWhite=White
+clDarkGray=Dark Gray
+clColor=Color
+
+JpegHigh=high
+JpegLow=low
+JpegQuality=&Jpeg quality
+SaveBmpWidth=Width
+SaveBmpHeight=Height
+SaveBmpIncludeMask=Include &mask bitmap
+SaveBmpWinSize=Window size
+SaveBmpLockSize=&Constrain proportion
+
+NoMemory=No enough memory!
+NoDefaultPrinter=There is no default printer currently selected!%So you can not printing!
+RegenDrawing=Regenerating drawing...
+TransferPrinter=Transferring to printer...
+TransferRaster=Transferring to raster file...
+
+ChildOpeningFile=Opening file
+RedrawingMsg=Redrawing...
+
+MainMenuFile=&File
+ChildMenuView=&View
+ChildMenuFormat=For&mat
+
+ChildMenuSave=Save &as...
+ChildMenuSaveHint=Save file
+
+ChildMenuClose=&Close
+ChildMenuCloseHint=Close this window
+
+ChildMenuSaveBmp=Save as &bitmap...
+ChildMenuSaveBmpHint=Save into bitmap file format
+
+ChildMenuSaveLayoutBmp=&Save layout as Bitmap...
+ChildMenuSaveLayoutBmpHint=Save current layout as Bitmap
+
+ChildMenuPrint=&Print...
+ChildMenuPrintHint=Print drawing to ploter, printer, or file
+
+ChildMenuLayer=&Layer...
+ChildMenuLayerHint=Set layer properties
+
+ChildMenuLinetype=Line&type...
+ChildMenuLinetypeHint=Creates, loads and sets linetype
+
+ChildMenuPtStyle=&Point Style...
+ChildMenuPtStyleHint=Set display size & style of point
+
+ChildMenuViewPoint=Sele&ct view point...
+ChildMenuViewPointHint=Sets the three-dimensional viewing direction
+
+ChildMenuViewFront=&Front
+ChildMenuViewFrontHint=Sets the view point Front
+
+ChildMenuViewBack=Bac&k
+ChildMenuViewBackHint=Sets the view point back
+
+ChildMenuLeft=&Left
+ChildMenuLeftHint=Sets the view point left
+
+ChildMenuRight=&Right
+ChildMenuRightHint=Sets the view point right
+
+ChildMenuTop=&Top
+ChildMenuTopHint=Sets the view point top
+
+ChildMenuBottom=&Bottom
+ChildMenuBottomHint=Sets the view point bottom
+
+ChildMenuSWIso=&SW Isometric
+ChildMenuSWIsoHint=Sets the view point SouthWest isometric
+
+ChildMenuSEIso=S&E Isometric
+ChildMenuSEIsoHint=Sets the view point SouthEast isometric
+
+ChildMenuNEIso=&NE Isometric
+ChildMenuNEIsoHint=Sets the view point NorthEast isometric
+
+ChildMenuNWIso=N&W Isometric
+ChildMenuNWIsoHint=Sets the view point NorthWest isometric
+
+ChildMenuZoomExt=zoom &Extents
+ChildMenuZoomExtHint=Zoom extent
+
+ChildMenuZoomIn=zoom &In
+ChildMenuZoomInHint=Zoom in
+
+ChildMenuZoomOut=zoom &Out
+ChildMenuZoomOutHint=Zoom out
+
+ChildMenuZoomWin=zoom &Window
+ChildMenuZoomWinHint=Zoom window
+
+ChildMenuRegen=&Regen
+ChildMenuRegenHint=Regen view
+
+ChildMenuZoomPre=zoom Pre&vious
+ChildMenuZoomPreHint=Zoom previous view
+
+ChildMenuPan=&Pan
+ChildMenuPanHint=Real pan
+
+ChildMenuPanLeft=pan &Left
+ChildMenuPanLeftHint=Pan left
+
+ChildMenuPanRight=pan &Right
+ChildMenuPanRightHint=Pan right
+
+ChildMenuPanUp=pan &Up
+ChildMenuPanUpHint=Pan up
+
+ChildMenuPanDown=pan &Down
+ChildMenuPanDownHint=Pan down
+
+ChildMenu256Colors=True &Colors
+ChildMenu256ColorsHint=Show true colors
+
+ChildMenuGrayColors=&Gray Color
+ChildMenuGrayColorsHint=Show gray depth
+
+ChildMenuBWColor=&Black/White Color
+ChildMenuBWColorHint=Show black/white color
+
+ChildMenu3DView=3D D&ynamic view
+ChildMenu3DViewHint=Defines a parallel projection or perspective view
+
+ChildMenuExit3DView=E&xit
+
+ChildMenuUcsIcon=&Ucs Icon
+
+ChildMenuUIOn=&On
+ChildMenuUIOnHint=Turns on UCS icon
+
+ChildMenuUIOR=O&rigin
+ChildMenuUIORHint=Keeps the UCS icon near the UCS origin if possible
+
+ChildMenuColors=&Colors
+ChildMenu3DViews=&3D Views
+
+InitError=Unable to initialize.
+
+OpenDWGDlgPreviewAll=Preview all drawing files
+
+MainRegSuccess=Congratulations!%Register SuccessFully!
+MainRegFail=Register Failure!\nPlease Register Later!\n\n------------------------------------------------------------------------\nNote: The new CADConverter (ver 6.0-) have changed the registration code. If you have purchased old version of CADConverter, please e-mail your order information to us, and we will resend the new registration code to you after we confirm your order informations. \n\nThe following informations is the valid: \n\nOrderID(purchased through Qwerks), Ref.No.(purchased through ShareIt), \nEmail: \nAddress:\nPhone number:\nYour name or company name:\nOld registration code.
+MainNotReg=Please Register Later!
+
+CreateAssociationSuccessfully=Create the file association successfully!
+RestoreAssociationSuccessfully=Restore the old file association successfully!
+
+CannotImport=Can not import other format file because there is no plug-in!
+
+MainMenuFile=&File
+MainMenuOption=&Option
+MainMenuWindow=&Window
+MainMenuHelp=&Help
+
+MainMenuExit=E&xit
+MainMenuExitHint=Exit CADConverter
+
+MainMenuAbout=&About...
+MainMenuAboutHint=About CADConverter
+
+MainMenuReg=&Register...
+MainMenuRegHint=Input registration code to register this software copy
+
+MainMenuBuy=&Buy now...
+MainMenuBuyHint=Buy this software copy now
+
+MainMenuOpen=&Open...
+MainMenuOpenHint=Open existing drawing file
+
+MainMenuBatch=&Batch transform...
+MainMenuBatchHint=Batch transform file format
+
+MainMenuImport=I&mport...
+MainMenuImportHint=Import other format file
+
+MainMenuSetBkColor=Set &background color...
+MainMenuSetBkColorHint=Set background color
+
+MainMenuSetShxDir=Searching &directories and font replace...
+MainMenuSetShxDirHint=Set directories of searching shx font file, xref block file, and raster file
+
+MainMenuCreateAssociated=&Create association
+MainMenuCreateAssociatedHint=Create associated with dwg & dxf file
+
+MainMenuRestoreAssociated=&Restore association
+MainMenuRestoreAssociatedHint=Restore associated with dwg & dxf file
+
+MainMenuLanguage=&Language...
+MainMenuLanguageHint=Select language
+
+MainMenuVerTile=Tile &Vertical
+MainMenuVerTileHint=Tile windows vertical
+
+MainMenuHorTile=Tile &Horizontal
+
+MainMenuCascade=&Cascade
+
+BatchCaption=Batch transform
+BatchUnregMsg=Unregistered version!%You can not run this function!
+BatchTargetFormat=&Target file format
+
+BatchWidth=&Width
+BatchHeight=&Height
+JpegQuality=&Jpeg quality
+JpegLow=low
+JpegHigh=high
+BatchColor=Colo&r
+BatchZoomExt=Auto &zoom extent
+BatchMask=Include &mask bitmap
+BatchAddFiles=&Add Files
+BatchDelFiles=Remo&ve files
+BatchClearFiles=C&lear all files
+BatchStart=&Start
+BatchClose=&Close
+
+TransformDlgCaption=Transforming...
+TransformStop=&Stop
+TransformOpenFile=Opening file
+TransformUserBreak=User break!
+TransformOverwriteFile=Overwrite the exists file :
+TransformComfirm=Comfirm
+TransformSaveFile=Saving file
+TransformFile=Transform file
+TransformCompleted=Transform completed!
+TransformClose=&Close
+TransformNoDetailInfo=No &Detail info <<
+TransformDetailInfo=&detail info >>
+TransformTotalProgress=Total progress
+
+AboutCaption=About
+AboutWebsite=Web site : 
+AboutSupportEMail=Support e_mail : 
+AboutDownloadnewversion=Download latest version !!!
+
+InputRegDlgCaption=Registeration
+InputRegRegister=&Register
+InputRegCode=Register C&ode:
+
+SelColorDlgCaption=Select Color
+SelColorStandardColors=Standard Colors
+SelColorAllColors=Full Color Pallete
+SelColorGrayColors=Gray Shades
+SelColorSelColor=Selected Color
+
+ShxDirDlgCaption=Set searching directories
+ShxDirAdd=&Add...
+ShxDirDelete=D&elete
+ShxDirDelInvalid=&Purge
+
+LayerDlgCaption=Layer & linetype properties
+
+LayerLayerSheet=Layer
+LayerLtypeSheet=Linetype
+
+LayerListViewName=Name
+LayerListViewOn=On
+LayerListViewColor=Color
+LayerListViewLtype=Linetype
+
+LayerDetail=Details
+LayerName=&Name
+LayerLtype=&Linetype
+LayerColor=&Color
+LayerOn=&On
+
+LayerLtypeListViewLtype=Linetype
+LayerLtypeListViewDescription=Description
+LayerLoadLtype=&Load...
+LayerLtScale=&Globe linetype scale
+LayerPsLtScale=&Use paper space units for scale
+
+LtypeLoadDlgCaption=Load or reload linetypes
+
+LtypeLoadFile=&File...
+LtypeLoadAvailableLtype=Available linetypes
+
+LtypeLoadListViewLtype=Linetype
+LtypeLoadListViewDesciption=Desciption
+
+ReloadLtypeCaption=Reload linetype
+ReloadLtypeYes=&Yes
+ReloadLtypeYestoAll=Y&es to All
+ReloadLtypeNo=&No
+ReloadLtypeNotoAll=N&o to All
+
+ViewAngleDlgCaption=Viewpoint Presets
+
+ViewAngleSetAngle=Set Viewing Angles
+ViewAngleSetPlan=Set to Plan &View
+
+ViewAngleXAxis=From X Axis
+ViewAngleXYAngle=XY Plane
+
+PtTypeDlgCaption=Point style
+PtTypeUnits=Units
+
+PtTypeSize=Point &Size
+PtTypeRelative=Set Size &Relative to Screen
+PtTypeAbsolute=Set Size in &Absolute Units
+
+PrintDlgCaption=Print Configuration Dialog
+
+PrintUnitmm=Print mm
+PrintUnitInch=Print Inches
+PrintPaperSize=Paper Size
+PrintPaperSizeBy=by
+
+PrintDevice=&Device Set ...
+PrintPenWidth=Pen Widt&h Set ...
+
+PrintGroupArea=Print Area
+PrintDisplay=Dis&play
+PrintWindow=&Window
+PrintLayout=&Current Layout
+PrintWinPick=Wi&ndow Pick<
+
+PrintGroupRaster=Raster Export
+PrintRasterExport=Export Raster &File
+PrintRasterFile=File N&ame ...
+
+PrintColor=Print C&olors
+PrintBlackColor=All are Black Color
+PrintGrayColor=Gray Color
+Print256Colors=true Colors
+
+PrintGroupPapaSize=Paper Size
+PrintInch=&Inch
+Printmm=&mm
+
+PrintGroupScale=Scale, Rotation and Origin
+PrintRotate=&Rotation degree
+PrintOffsetX=Offset &X
+PrintOffsetY=&Y
+PrintCenter=C&enter print
+PrintDrawingUnit=Drawing Units
+PrintScaleFit=Scaled &to Fit
+
+PrintPreview=Pre&view ...
+PrintPrint=Print
+
+PreviewDlgCaption=Print Preview - Press ESC  or Enter to exit, Right click mouse button to popup menu
+PreviewPan=&Pan
+PreviewZoom=&Zoom
+PreviewZoomFit=Zoom &Fit
+PreviewExit=E&xit
+
+InvalidNumberMsg=Invalid number!
+
+PenWidthListViewColor=Color Index
+PenWidthListViewWidth=Width
+
+PenWidthColor=Color
+PenWidthWidth=&Width
+
+PenWidthUnit=Unit
+PenWidthInch=&Inch
+PenWidthmm=&mm
+
+SetLanDlgCaption=Set Language
+SetLanLanList=Language List
+SetLanCurLan=Current Language
+
+**** Added 2002.08.17
+FileNotFount=File not found :
+
+LayoutModal=Modal
+LayoutPaper=Paper
+
+ChildSaveDlgTitle=Save drawing file
+ChildSavingFile=Saving file
+ChildNoDrawing=No Drawing file
+
+SaveBmpTitle=Save as raster file
+SaveBmpFileSize=Bitmap file size:
+
+SaveLayoutBmpTitle=Save layout as raster file
+
+BatchOpenDwgDlgTitle=Open AutoCAD file
+
+UnregText=Unregistered version
+
+UnregPrompt=Unregistered version!%Your bitmap will have "DemoCADConverter" text!%The limit will be canceled only when you have registered.
+UnregPrintPrompt=Unregistered version!%Acme CADConverter will print "DemoCADConverter" text!%The limit will be canceled only when you have registered.
+
+BatchBWColor=Black/White Color
+BatchGrayColor=Gray Color
+Batch256Color=true Colors
+
+**** Added 2002.08.23
+NonePreviewPicture=(None)
+
+AllDrawingType=All drawing type(*.dwg,*.dxf)
+DrawingType=Drawing type(*.dwg)
+DxfType=DXF type(*.dxf)
+
+BmpType=Bitmap type(*.bmp)
+JpegType=JPEG type(*.jpg)
+
+PrintMsgDlgCaption=Printing Message
+PrintExportToRasterTitle=Raster filename
+
+MainMenuIndex=&Index
+MainMenuIndexHint=Show help
+
+MainMenuHorTileHint=Tile windows horizontal
+
+MainMenuCascadeHint=Casade the windows
+
+**** Added 2002.08.26
+SelectShxDirDlgCap=Select searching directory
+
+**** Added 2002.09.02
+ChildMenuExport=&Export...
+ChildMenuExportHint=Export to other vector format file
+NotSupportVecFormat=Not support the vector format!
+
+ExportDlgTitle=Export...
+ExportDlgWidth=Width
+ExportDlgHeight=Height
+ExportDlgColors=Colors
+ExportDlgLockSize=Constrain proportion
+ExportDlgZoomExt=Zoom extent
+ExportDlgBlack=All are Black
+ExportDlgGray=Gray colors
+ExportDlg256Colors=true colors
+
+SVGType=Scalable vector graphics(*.svg)
+HPGLType=HP-GL/2(*.plt)
+
+UnregExportPrompt=Unregistered version!%Your vector file will have "DemoCADConverter" text!%The limit will be canceled only when you have registered.
+SaveBmpZoomExt=Zoom extent
+
+BatchSameFile=Same files option
+BatchOverwrite=Overwrite without prompt
+BatchPrompt=Prompt
+BatchGenerate=Auto generate filenames
+BatchTargetDir=Target f&older
+BatchAddFolder=Add all drawing files of &folder
+BatchTargetDirDlgCap=Select target directory
+BatchOption=Option
+
+AddFloderDlgCap=Select folder to add
+AddFolderDlgIncludeSub=Include subfolders
+AddFolderDlgFileTypeGrp=Adding file type
+AddFolderDlgAddDWG=DWG file
+AddFolderDlgAddDXF=DXF file
+
+TransformSuccess=successfully!
+TransformFail=failure!
+
+ParamError=Parameter error!
+
+**** Added 2002.09.09
+OpenShxDlgTitle=Select the AutoCAD shx file
+CADShxFileType=AutoCAD shx file(*.shx)
+
+DwgTypeVer2000=AutoCAD 2000 drawing(*.dwg)
+DwgTypeVer14=AutoCAD R14 drawing(*.dwg)
+DwgTypeVer12=AutoCAD R12 drawing(*.dwg)
+
+DxfTypeVer2000=AutoCAD 2000 dxf(*.dxf)
+DxfTypeVer14=AutoCAD R14 dxf(*.dxf)
+DxfTypeVer12=AutoCAD R12 dxf(*.dxf)
+
+**** Added 2003.01.22
+GifType=Graphics Interchange Format(*.gif)
+MainMenuArrangeIcon=&Arrange Icons
+
+****  Added 2003.01.23
+SaveBmpCurLayout=Current Layout
+SaveBmpCurDisplay=Current Display
+SaveBmpSaveArea=Save &Area
+
+LtypeLoadSelAll=Select &All
+LtypeLoadLinetypeText=Linetype file(*.lin)
+
+PenWidthColorVaries=Color varies
+
+AddFolderDlgOnlyDWG=Only DWG file
+AddFolderDlgOnlyDXF=Only DXF file
+AddFolderDlgDWGDXF=&Both DWG and DXF files
+
+TextFileName=Text file(*.txt)
+
+TransformSaveReport=Save &Report
+
+ConvertError=Convert Error!
+
+LayerListViewOff=Off
+
+LayerListViewDuplicateLayer=There has duplicate layer name!
+
+MainMenuArrangeIconHint=Arrange icons at the bottom of the window
+
+MainMenuOpenHistory=Open the file
+
+MainMenuHomePage=&DWG Tool Homepage
+MainMenuHomePageHint=Browse DWGTool Software home page
+
+MainMenuBrowseProducts=&Other products of DWGTool Software
+MainMenuBrowseProductsHint=Browse other products of DWGTool Software
+
+ProgressCaption=Progress
+
+ZoomingExt=Zooming extent ...
+
+ChildMenuFullScreen=&Full Screen
+ChildMenuFullScreenHint=switch full screen mode
+
+AlloctMemory=Allocating memory...
+SaveRaster=Saving to raster file...
+
+ChildMenuExit3DViewHint=Exit 3d dynamic view set
+
+ChildMenuCloseAll=C&lose all
+ChildMenuCloseAllHint=Close all drawing files
+
+BuynowDlgDetail=Detail...
+BuynowDlgTrial=Please let me continue trial version
+AgentDlgCaption=Agent
+InputRegAgent=&Agent detail...
+
+**** Added 2003.02.24
+PrintCopies=Print &Copies
+
+TransformCreateDirFail=The target directories doesn't exists, and cann't create it!
+
+**** Added 2003.03.01
+ShxDirDlgTitle=Set directories for search shx font file, xref block file, and raster file
+
+**** Added 2003.03.16
+ChildMenuSelObj=&Select entities
+ChildMenuSelObjHint=Select entities by point or window
+
+ChildMenuSetObjProp=&Properties...
+ChildMenuSetObjPropHint=Set properties of selected entites
+
+**** Added 2003.03.27
+ErrDwgTypeMsg=Note: The file type is DWG, but the file's extension is not "DWG" !
+ErrDxfTypeMsg=Note: The file type is DXF, but the file's extension is not "DXF" !
+
+**** Added 2003.07.02
+ChildMenuUnits=&Units...
+UnitsDlgCaption=Units
+UnitsDlgLinearUnitsGroup=Linear Units
+UnitsDlgArchitectural=&Architectural
+UnitsDlgDecimal=&Decimal
+UnitsDlgEngineering=&Engineering
+UnitsDlgFractional=&Fractional
+UnitsDlgScientific=&Scientific
+UnitsDlgPrecision=&Precision
+
+SaveBmpScale=Scale
+
+**** Added 2003.07.19
+RotateViewDlgCaption=Rotate view
+RotateViewDlgAngleLab=Rotate angle
+ChildMenuRotateView=R&otate view...
+ChildMenuRotateViewHint=Rotate view
+
+**** Added 2003.08.24
+ChildMenuPDFExport=&PDF Export tool...
+ChildMenuPDFExportHint=Convert one or more ACAD files into one PDF files
+PDFSelDlgTitle=Select PDF file
+PDFFileType=Adobe PDF file(*.pdf)
+MainMenuExportSubMenu=&Export
+
+**** Added 2003.08.31
+PDFExportCaption=PDF Conversion Tool: Converts multi-drawings into single PDF
+PDFExportAddFiles=&Add Files
+PDFExportRemoveFiles=&Remove files
+PDFExportClearFiles=&Clear all files
+PDFExportAddFolder=Add all drawing files of &folder
+PDFExportUp=&Up
+PDFExportDown=&Down
+PDFFileListBookMark=Book Mark
+PDFFileListFile=File
+PDFExportPageWidth=Page &Width
+PDFExportPageHeight=Page &Height
+PDFExportPageMargin=Page &Margin
+PDFExportUnits=&Units
+PDFExportInch=Inch
+PDFExportmm=mm
+PDFExportColor=Color
+PDFExportZoomExt=Auto Zoom &Extent
+PDFExportPDFFile=Output &PDF File
+PDFExportStart=&Start
+PDFExportClose=Close
+
+PDFInfoDlgCaption=PDF File Information
+PDFInfoDlgTitle=Title
+PDFInfoDlgAuthor=Author
+PDFInfoDlgSubject=Subject
+PDFInfoDlgKeyWords=Key Words
+
+**** Added 2004.07.24
+PWDlgTitle=PassWord
+PWDlgLabel=Enter PassWord for the drawing:
+
+AllDrawingType=All drawing type(*.dwg,*.dxf,*.dwt,*.dwf)
+DwtType=drawing template file(*.dwt)
+DwfType=DWF type(*.dwf)
+
+*** Updated and Added 2004.09.08
+SaveBmpInputScale=Sca&le
+LineWidth=Line Width
+
+UnregSaveDWF=This is a unregistered version!%Can't save DWF file to drawing file!%The limit will be canceled only when you have registered.
+
+*** Updated and Added 2005.01.03
+PenWidthListViewDestColor=Destination Color Index
+PenWidthDestColor=Des&tination Color
+PenWidthSets=Color sets
+PenWidthSetsNew=&New
+PenWidthSetsDel=&Delete
+PenWidthSetsWarining=there must be at least one sets!%Can't delete this sets!
+PenWidthNewSetsPrompt=New Color Sets
+PenWidthSetsInquire=Are you sure to delete this sets?
+
+MainMenuPntColorSets=Print &Pens
+MainMenuPntColorSetsHint=Set the widths and colors of print pens
+
+ExportDlgUseUnits=&Units
+ExportDlgPixel=Pixel
+ExportDlgInch=Inch
+ExportDlgmm=mm
+
+BatchUnits=&Units
+
+*** Updated and Added 2005.01.08
+PenWidthDefault=&Reset
+PenWidthImport=Im&port...
+PenWidthExport=&Export...
+
+ExportDlgUsePrintColor=Use print pen sets
+BatchUsePintColorSet=Use print pen sets
+
+PenWidthDlgCaption=Pen Sets
+
+*** Updated and Added 2005.01.09
+PenWidthSavePrmpt=The pen sets have been modified, do you wanto to save it?
+
+ExportPenSetsTitle=Export pen sets
+ExportPenSetsPrompt=Please select pen sets to export
+ExportPenSetsSelFilePrompt=Please select export file
+
+ImportPenSetsTitle=Import pen sets
+ImportPenSetsPrompt=Please select pen sets to import
+ImportPenSetsSelFilePrompt=Please select import file
+ImportPenSetsOverWritePrompt=The pen sets "%%s" already exists, overwrite it?
+ImportPenSetsOverWriteTitle=Overwrite pen sets
+
+PenSetsSelectAll=Select &All
+ExportPenSetsFileName=CADConverter Pen Sets(*.cps)
+ExportPenSetsAllFileName=All files(*.*)
+
+LtypeLoadInquireText=Linetype "%%s" is already loaded. Reload it?
+
+*** Updated and Added 2005.01.18
+SVGZFileType=Compressed scalable vector graphics(*.svgz)
+CGMFileType=Computer graphics metafile(*.cgm)
+EPSFileType=Encapsulated PostScript(*.eps)
+PcxType=PCX Format(*.pcx)
+
+*** Added 2005.02.25
+PickAreaPrmpt= <Pick window: press Enter key to confirm, press ESC key to cancel>
+PickWindow=Pick window <
+SaveBmpPickWindow=Pick window
+SaveWindowPrompt=Warning: You should pick window before you save to file.
+InvalidPickWinPrompt=Invalid window! Please pick again!
+
+*** Added 2005.02.28
+LayerSelAll=Select &All
+LayerSelInverse=&Inverse
+
+*** Added 2005.03.25
+BatchConvertLayout=Convert layout
+BatchCurrentLayout=Current layout
+BatchModelSpace=Model space only
+
+*** Added 2005.03.30
+BatchAllLayouts=All layouts
+
+*** Added 2005.06.10
+ExportDlgCurDisplay=Current Display
+ExportDlgZoomExt=Zoom extent
+ExportDlgPickWindow=Pick window
+ExportDlgPickWindowBtn=Pick Window <
+ExportDlgExportArea=Export Area
+
+*** Added 2005.08.26
+ExportDlgPageSize=Page Size
+PDFExportLayout=Lay&out
+PDFExportPageSize=Page Si&ze
+PDFExportPDFFileInfo=PDF File &Info
+PDFExportPageSize=Page Si&ze
+BatchConvertLayout=Convert layout
+SaveBmpZoomExt=Zoom Extent
+
+ChildPrintToFileMsg = Print to the raster file successfully
+
+*** Added 2005.09.10
+ChildMenuRecover=&Recover...
+ChildMenueTransmit=eTra&nsmit...
+MainMenuFileRecover=Repairs a damaged drawing
+MainMenuFileeTransmit=Creates a transmittal set of a drawing and related files
+
+UnregSaveRecoverFile=This is a unregistered version!%Only the first drawing file will be recovered!%The limit will be canceled only when you have registered.
+
+DwgTypeVer2004=AutoCAD 2004 drawing(*.dwg)
+DxfTypeVer2004=AutoCAD 2004 dxf(*.dxf)
+
+OnlyDrawingType=All drawing files(*.dwg,*.dxf,*.dwt)
+Allfiles=All files(*.*)
+
+*** Added 2005.09.16
+TransmitDlgCaption=Create transmittal package
+
+TransmitListFile=File
+TransmitListPath=Path
+TransmitListSize=Size
+
+TransmitPackFolder=Pack in folder
+TransmitPackZIP=Pack in ZIP file
+TransmitPackPwZIP=Pack in password ZIP
+TransmitAddDwg=&Add drawings
+TransmitAddFolder=Add All drawings of &folder
+TransmitRemoveDwg=Remo&ve drawings
+TransmitClearDwg=C&lear
+TransmitAddFiles=Add file&s
+TransmitChkSel=C&heck selected
+TransmitUnchkSel=U&ncheck selected
+TransmitChkAll=Chec&k all
+TransmitUnchkAll=&Uncheck all
+TransmitCreatePackage=&Create package
+TransmitClose=Close
+
+TransmitAddFileTitle=Add files
+TransmitSelDestFolder=Select folder
+TransmitDlgInputZipFile=Input zip file name
+Zipfile=ZIP file(*.zip)
+UnregTransmitMsg=This is a unregistered version!%You can only add one drawing file!%The limit will be canceled only when you have registered.
+TransmitCreateFolder=The destination folder does not exist, do you want to create it?
+InputZipPassword=Input the password for the zip file
+
+TransmitTotalFiles=Total files:
+TransmitPackFiles=pack files:
+TransmitPackFileSize=total size of pack files:
+
+GetDependencyTotalProgress=Total progress
+
+*** Added 2005.09.17
+InputPasswordError=The two password inputed are not same, please reinput!
+PassWordDlgReInput=Reinput password
+PassWordDlgShowPassword=Show password
+
+PackInFolderSuccess=Pack in the following folder successfully:
+PackInZIPSuccess=Pack in the following ZIP file successfully:
+PackInZIPFailure=Pack in the following ZIP file failurely:
+
+TransmitBytes=Bytes
+PackInFolderCancel=User cancel.
+
+*** Added 2005.09.21
+RecoverDlgCaption=Batch recover drawing files
+RecoverAddDwg=&Add drawings
+RecoverAddFolder=Add All drawings of &folder
+RecoverRemoveDwg=Remo&ve drawings
+RecoverClearDwg=C&lear
+
+RecoverSaveNoErrorFile=&Save drawing file even if which have no error
+RecoverAppendSuffix=Appen&d suffix "_Recover" to the filename when save the recovered file
+RecoverSaveShowReport=Save and show the report...
+RecoverBeginRecover=&Recover
+RecoverClose=&Close
+
+RecoverOriginFile=Origin file
+RecoverStatus=Status
+RecoverSaveAs=Save as
+
+RecoverFixSuccess=Fixed
+RecoverNoError=No error
+RecoverFault=Fault
+
+RecoverFixFileNum=Fix files:
+RecoverNoErrorFileNum=No error files:
+RecoverFaultFileNum=Fault files:
+
+RecoverSaveReportTitle=Save report
+RecoverReportTextFileType=Text File(*.txt)
+
+RecoverReportFixNoErrorNotSave=There is not any error in the above drawing file, and do not save it.
+RecoverReportFixNoErrorSave=There is not any error in the above drawing file, but still save it in the below file:
+RecoverReportFixSuccess=Fix the above file successfully, and save it in the below file:
+RecoverReportFixFault=Can not fix the above file!
+
+TransmitOverwritePrompt=The below file already exists, do you want to overwrite it?
+TransmitOverwriteInquireDlgCaption=Overwrite
+
+*** Added 2005.10.27
+FontReplaceTitle=Font replace
+FontReplaceFontNotFount=Font not found : 
+FontReplaceAll=Replace all the font not found with this font
+FontReplaceBrowse=Browse...
+FontReplaceSelFont=Selected font: 
+
+AddFolderDlgDWGFiles=DWG files
+AddFolderDlgDXFFiles=DXF files
+AddFolderDlgDWFFiles=DWF files
+
+BatchAllPaperSpace=All Paper space
+
+ExportDlgTrueColors=True colors
+PrintTrueColors=True Colors
+
+*** Added 2005.12.22
+FontReplaceReplaceFont=Replace fonts
+FontReplaceReplaceAllFont=&Replace all the fonts that not found with the below fonts
+FontReplaceSmallFontFile=&Small font file
+FontReplaceBigFontFile=&Big font file
+FontReplaceTTFFont=Windows &TTF font
+FontReplaceOnlyUseTTf=&Use TTF font only
+FontReplaceApply=Appl&y
+
+OpenDwfFileFail=Open dwf file failure!
+
+RecoverFail=Can not recover the drawing file!
+
+*** Added 2006.01.06
+BatchConvert=&Batch Convert
+BatchDWG2Bmp=DWG, DXF -> Bitmap
+BatchDWG2Jpg=DWG, DXF -> Jpeg
+BatchDWG2Gif=DWG, DXF -> GIF
+BatchDWG2Pcx=DWG, DXF -> PCX
+BatchDWG2Pdf=DWG, DXF -> PDF
+BatchDWG2Svg=DWG, DXF -> SVG
+BatchDWG2Plt=DWG, DXF -> HP-GL/2
+BatchDWG2Eps=DWG, DXF -> EPS
+BatchDWG2Cgm=DWG, DXF -> CGM
+BatchDWG2DXF=DWG -> DXF
+BatchDXF2DWG=DXF -> DWG
+BatchVerConvert=Version Conversion
+
+*** Added 2006.02.17
+PrintPenSetsGroup=Pen Sets
+PrintPenWidthUsePenWidth=&Use pen sets
+PrintPenWidthSet=&Set...
+
+*** Added 2006.04.17
+PDFExportLayer = Export La&yer
+PDFExportFinishMsg = Export the drawing files to the below PDF file successfully, do you want to open it?
+
+*** Added 2006.11.30
+PenWidthNewSetsTitle=Input
+ExportPenSetsACADCTBFileName=AutoCAD Pen Sets(*.ctb)
+
+*** Added 2007.01.20
+PDFExportZoomExtScale=&Scale(Zoom ext)
+BatchZoomExtScale=&Scale(Zoom ext)
+BatchSetPenWidth=Set pen width
+
+*** Added 2007.02.07
+PngType=PNG Format(*.png)
+TifType=TIFF Format(*.tif)
+TgaType=TGA Format(*.tga)
+WmfType=Windows metafile(*.wmf)
+
+*** Added 2007.03.30
+BatchLineBold=Line Bold
+
+*** Added 2007.06.07
+ExportUseLayoutPageSize=Use the layout page size if possible.
+BatchDWG2Tiff=DWG, DXF -> Tiff
+
+*** Added 2007.08.18
+MinValueOfWidth=Minimum value of pen-width
+*** Added 2007.08.27
+KnowNoRemind=I see, please don't remind me again!
+Try=Try it!
+
+*** Added 2008.03.14
+BatchDWG2Wmf=DWG, DXF -> WMF
+WMFFileType=Windows metafile(*.wmf)
+
+***Added 2008.04.05
+ExportViewportFrame=Exports viewport frame
+
+***Added 2008.04.29
+3dHide=Removes Hidden Line
+Close3DHide=None
+Auto3DHide=Automatically
+Force3dHide=Forcibly
+
+***Added 2008.05.9
+KeepsSameFolder=Keep sub-path structure
+
+***Added 2008.07.15
+TransformCompletedAndOpen=Transform completed! Double-click on the filename to open it
+EnableLineweight=Enable Lineweight
+
+***Added 2008.08.27
+BatchByScaleCaption=Batch transform by scale
+BatchScale=Scale:
+BatchErrScale=The value of the scale isn't correct!
+BatchFinish=Transform completed !
+Watermark=Set Watermark...
+OneDrawingOneFile=A PDF file per drawing
+MergeIntoOneFile=Merge into single PDF
+OneFilePerLayout=A PDF file per layout
+PDFFileInfo=PDF info...
+ExportMargin=Margin(Inch):
+
+***Watermark dialog box string(s)
+WM_MainCaption=Watermark manager
+WM_LIST=Watermark object(s)
+WM_CANCEL=Cancel
+WM_OK=Ok
+WM_HELP=Help
+WM_PRESIZE=Size of the preview page:
+WM_ADD=New
+WM_MOD=Modify
+WM_DEL=Delete
+WM_Center=Center
+WM_LeftTop=Left-Top
+WM_Left=Left
+WM_Top=Top
+WM_RightTop=Right-Top
+WM_Right=Right
+WM_LeftBottom=Left-Bottom
+WM_RightBottom=Right-Bottom
+WM_Bottom=Bottom
+WM_Tile=Tile
+WM_IFDEL=Are you sure to delete the item ?
+WM_ERRSIZE=The value of the page size aren't correct!
+WM_ERRNAME=Watermark's name can not be empty!
+WM_TIME=Time
+WM_DATE=Date
+WM_FileName=File name
+WM_LayoutName=Layout name
+WM_Caption=Set watermark
+WM_Group=Watermark informations
+WM_Color=Color:
+WM_InsObject=Insert object(s) >
+WM_CHECK=Check...
+WM_FILL=Filled
+WM_LOC=Position:
+WM_HEIGHT=Char height:
+WM_MARGIN=Margin:
+WM_ANGLE=Angle:
+WM_SAMESCALE=Keeps the same scale with each page height
+
+***Added 2008.10.18
+BatchByUser=Use Manual Setting
+HintLayoutChanged=You already manually set the supposed output layouts and layer settings,\nif continue, your mannual settings would be ignored,\n\nWill you continue?
+LayoutLayer=Layout && Layer...
+ExportBookMark=Export Bookmark
+LL_OK=Ok
+LL_CANCEL=Cancel
+LL_TITLE=Select the supposed exported layout and layer
+LL_DrawingList=Drawing File(s) List
+LL_LayoutGroup=The Information of the drawing
+LL_LayerBtn=Select Layer to export...
+LL_LayoutList=Layout(s) List
+LL_Bookmark=Bookmark
+LL_Filename=File
+LL_LayoutName=Layout name
+LL_Hint=To view integrated drawing and set the layers which need to be exported, click the following button.
+VL_Title=Select the layer you want to export
+VL_Apply=Apply
+VL_View=You can view and zoom by these button on the left, and adjust the size of dialog to you want.
+
+***Added 2008.11.26
+OPENFAIURE_CONTINUE=Open '%%s' failure! \n\nDo you want to continue?
+
+***Added 2009.2.23
+WM_PREVIEW=Preview
+None=None
+ConvertingLayout=Converting Layout
+
+***Added 2009.3.19
+NR_Caption=There are some files the program can not find
+NR_FileName=File Name
+MainMenuFileLackingFile=Missing file...
+
+***Added 2009.4.9
+BatchQuality=Quality
+
+***Added 2009.5.14
+ChildMenueSeparateLayers=Separate layers to drawings...
+UnregSeparateLayers=Unregistered version\n\nIt will output only 5 layer files at most for a drawing!\n\nTo remove this limit, please register Acme CAD Converter.
+MenuTools=&Tools
+
+***Added 2009.6.29
+BatchProduces=Produces
+BatchOpen=Open
+
+***Added 2009.7.3
+WM_IFDELALL=Are you sure to clear all items ?
+MainMenuPageSize=Custom Additional Paper Sizes...
+
+***Added 2009.8.2
+
+PAPER_Title=Tile
+PAPER_Width=Width
+PAPER_Height=Height
+PAPER_Unit=Unit
+
+PAGESIZE_NEW=Creates an new paper type
+PAGESIZE_EDIT=Modifies paper type
+
+WM_REMOVE=Delete selected
+WM_CLEAR=Clear all
+
+***Added 2010.2.26
+BkColor=BkColor
+DwgTypeVer2010=AutoCAD 2010 drawing(*.dwg)
+DxfTypeVer2010=AutoCAD 2010 DXF file(*.dxf)
+
+***Added 2011.7.21
+EmptyInputHint=<Keep empty to save the output to the same folder as the original drawing>
+WidthTips=Auto fit the width with 'Height' if width = 0 and zoom extent is checked
+HeightTips=Auto fit the height with 'Width' if height = 0 and zoom extent is checked
+NeedPDFFileNameOutput=<Needs a PDF file name to start the conversion>
+SaveFileFailed=Save the file '%%s' failed
+
+TransformFailed=Conversion failed !
+
+PDFSetEncrypt=PDF setting && encrypt...
+
+PDFInfoDlgSecureInfo=Security Options
+PDFInfoDlgEncrypt=Encrypt PDF files
+PDFInfoDlgPassword=Password
+PDFInfoDlgPS=Note that password is case-sensitive (letters and numbers only), also you can keep the password empty so that opening the pdf without a password.
+PDFInfoDlgNoCopy=No copy
+PDFInfoDlgNoPrint=No print
+PDFInfoDlgNoEdit=No edit
+
+ChildMenuPDFTool=Converts multi-drawings into single PDF
+
+**Added 2012.3.5
+SetPlotStyle=Set Plot Style...
+PlotStyle=Plot Style
+LineWeightScale=LineWeight scale:
+ForModel=Just for Model Space
+CurPenSet=Current Pen-Set:
+BatchUsePintColorSet=Use Print Pen-Set
+PenSet=Pen Set...
+BatchColor=Color
+BKColorLB=Background Color
+
+***End
